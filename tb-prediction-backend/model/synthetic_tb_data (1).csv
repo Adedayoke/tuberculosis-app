@@ -1,0 +1,1001 @@
+Age,Gender,Ethnicity,History_of_TB,Diabetes,HIV_Status,Cough_Duration,Chest_Pain,Weight_Loss,Fever,BCG_Vaccination,Income_Level,Education_Level,Employment_Status,Living_Conditions,Air_Quality_Index,Exposure_to_TB,Geographic_Location,TB_Risk
+16,Female,Ethnicity3,0,0,0,15,0,0,0,0,High,Tertiary,Unemployed,Not crowded,241,0,Urban,False
+87,Male,Ethnicity3,0,0,0,12,1,0,1,0,Medium,Secondary,Student,Crowded,399,0,Urban,False
+46,Male,Ethnicity3,0,0,0,89,0,0,0,0,Low,Primary,Employed,Not crowded,56,0,Urban,False
+7,Male,Ethnicity1,0,0,0,12,0,0,0,1,Low,None,Employed,Crowded,326,0,Rural,False
+13,Male,Ethnicity2,0,0,0,96,0,0,0,0,High,Tertiary,Unemployed,Crowded,461,0,Rural,False
+60,Male,Ethnicity3,0,0,0,8,0,0,0,0,Low,Primary,Unemployed,Crowded,421,0,Rural,False
+4,Female,Ethnicity3,1,0,0,68,0,0,0,0,High,Secondary,Unemployed,Crowded,19,1,Urban,True
+98,Male,Ethnicity2,0,0,0,92,0,0,0,0,High,Tertiary,Employed,Not crowded,98,0,Rural,False
+58,Male,Ethnicity3,0,0,0,1,0,0,0,1,High,Primary,Unemployed,Not crowded,125,0,Urban,False
+79,Male,Ethnicity1,0,0,0,3,0,1,0,0,High,Primary,Student,Not crowded,417,0,Urban,False
+84,Male,Ethnicity2,0,0,1,82,1,0,0,0,Low,Secondary,Unemployed,Crowded,102,1,Rural,True
+79,Female,Ethnicity3,0,0,0,97,0,0,0,0,Medium,None,Student,Not crowded,196,0,Urban,False
+80,Female,Ethnicity1,0,0,0,21,0,0,0,0,High,Secondary,Unemployed,Not crowded,319,0,Rural,False
+40,Male,Ethnicity2,0,0,0,43,1,0,0,0,High,None,Unemployed,Crowded,273,0,Urban,False
+50,Male,Ethnicity2,0,0,0,54,0,0,0,0,Medium,Tertiary,Employed,Not crowded,311,0,Rural,False
+82,Male,Ethnicity2,0,0,0,23,0,0,0,0,High,Primary,Unemployed,Crowded,206,0,Urban,False
+51,Male,Ethnicity3,0,0,0,80,1,0,1,0,Medium,Primary,Unemployed,Crowded,429,0,Urban,True
+42,Male,Ethnicity1,0,0,0,42,0,0,0,0,High,Secondary,Unemployed,Crowded,288,1,Urban,False
+3,Female,Ethnicity1,0,0,0,77,0,0,0,0,Low,None,Unemployed,Crowded,455,0,Rural,False
+24,Male,Ethnicity2,0,0,0,86,0,0,0,0,Medium,Secondary,Unemployed,Crowded,123,0,Urban,False
+74,Female,Ethnicity2,0,0,0,28,0,0,0,1,High,Secondary,Employed,Crowded,428,0,Rural,False
+39,Male,Ethnicity3,0,0,0,95,0,0,0,0,High,Tertiary,Unemployed,Crowded,287,1,Rural,False
+82,Female,Ethnicity2,0,0,0,28,0,0,0,0,High,Tertiary,Unemployed,Not crowded,114,1,Urban,False
+35,Female,Ethnicity3,0,1,0,47,0,0,0,0,High,Tertiary,Student,Crowded,432,1,Urban,False
+47,Female,Ethnicity2,0,1,0,36,0,0,0,0,Low,Primary,Unemployed,Not crowded,470,0,Urban,False
+63,Female,Ethnicity3,0,1,0,4,0,0,0,1,Low,None,Unemployed,Crowded,449,0,Rural,False
+65,Male,Ethnicity2,0,0,0,12,0,0,1,1,Low,Tertiary,Employed,Not crowded,406,0,Rural,False
+94,Male,Ethnicity2,0,0,0,92,0,0,0,0,High,None,Unemployed,Not crowded,258,0,Rural,False
+71,Male,Ethnicity1,0,1,0,89,0,0,0,0,Medium,Tertiary,Student,Crowded,150,0,Rural,False
+68,Female,Ethnicity3,0,0,0,9,0,0,0,0,High,Tertiary,Employed,Not crowded,469,1,Rural,False
+86,Female,Ethnicity2,0,0,0,43,1,0,0,0,High,Tertiary,Student,Crowded,133,1,Urban,True
+32,Female,Ethnicity1,0,0,0,49,0,0,0,1,Medium,Tertiary,Unemployed,Not crowded,301,0,Urban,False
+42,Male,Ethnicity1,0,0,1,1,0,0,0,0,Low,Primary,Employed,Crowded,465,0,Rural,False
+0,Male,Ethnicity3,0,0,0,18,0,0,0,0,Low,Secondary,Employed,Crowded,6,0,Urban,False
+14,Male,Ethnicity3,0,0,0,26,0,0,0,0,High,Primary,Student,Not crowded,422,0,Rural,False
+68,Male,Ethnicity1,0,0,0,61,0,0,0,0,High,None,Unemployed,Crowded,387,0,Rural,False
+19,Female,Ethnicity2,0,0,0,86,0,0,0,0,High,None,Employed,Crowded,416,1,Urban,False
+38,Female,Ethnicity3,0,0,0,5,0,0,0,0,High,Primary,Unemployed,Not crowded,364,0,Rural,False
+41,Male,Ethnicity2,0,0,0,71,0,0,0,1,Low,Secondary,Employed,Not crowded,168,0,Rural,False
+43,Female,Ethnicity1,1,0,0,71,0,0,0,0,Medium,Tertiary,Student,Not crowded,401,0,Rural,False
+6,Female,Ethnicity3,1,0,0,68,0,0,1,0,Low,Tertiary,Student,Not crowded,399,1,Urban,True
+35,Male,Ethnicity1,0,0,0,14,0,0,0,0,High,Primary,Employed,Crowded,244,0,Rural,False
+91,Male,Ethnicity2,0,0,0,39,0,0,0,1,High,Secondary,Student,Not crowded,46,1,Urban,False
+73,Male,Ethnicity2,0,1,0,88,0,0,0,0,Low,None,Student,Not crowded,157,1,Rural,False
+72,Male,Ethnicity2,0,0,0,40,0,0,0,0,High,Primary,Unemployed,Crowded,437,0,Urban,False
+77,Male,Ethnicity3,0,0,0,10,0,0,0,0,Medium,Tertiary,Student,Not crowded,206,1,Rural,False
+21,Male,Ethnicity3,0,0,1,75,0,0,0,0,Low,Secondary,Student,Not crowded,248,0,Urban,False
+55,Male,Ethnicity2,0,0,1,15,0,0,0,0,High,Tertiary,Unemployed,Not crowded,331,0,Rural,False
+94,Female,Ethnicity2,0,0,0,80,0,1,0,0,Medium,None,Student,Not crowded,107,0,Urban,False
+86,Male,Ethnicity3,0,0,0,52,0,1,0,0,Low,Tertiary,Student,Crowded,220,0,Urban,False
+19,Male,Ethnicity1,0,0,0,95,1,0,0,0,Medium,Tertiary,Student,Crowded,446,0,Urban,False
+79,Female,Ethnicity2,0,0,0,6,0,0,0,0,High,Secondary,Student,Crowded,90,0,Urban,False
+94,Male,Ethnicity1,0,0,0,80,0,0,0,0,Medium,Secondary,Unemployed,Crowded,196,0,Rural,False
+31,Male,Ethnicity2,0,0,0,77,0,0,0,0,Low,Tertiary,Employed,Not crowded,303,0,Urban,False
+90,Male,Ethnicity3,0,0,0,55,0,0,0,0,Low,Secondary,Employed,Crowded,414,0,Urban,False
+53,Male,Ethnicity3,0,0,0,41,0,0,0,0,Low,Secondary,Student,Crowded,6,0,Urban,False
+73,Male,Ethnicity1,0,0,0,78,0,0,0,1,Medium,Secondary,Unemployed,Not crowded,11,0,Rural,False
+25,Female,Ethnicity1,0,0,0,22,1,0,1,0,Medium,Primary,Student,Crowded,99,0,Urban,False
+4,Male,Ethnicity3,0,0,0,81,0,0,0,0,High,None,Unemployed,Not crowded,496,0,Urban,False
+20,Female,Ethnicity2,0,0,0,48,0,0,0,0,Medium,Secondary,Unemployed,Not crowded,236,1,Rural,False
+21,Female,Ethnicity2,0,0,0,40,0,0,0,0,High,Tertiary,Employed,Not crowded,440,0,Urban,False
+92,Female,Ethnicity1,0,0,0,50,0,0,0,0,High,Tertiary,Unemployed,Crowded,317,0,Urban,False
+35,Male,Ethnicity1,0,0,0,3,0,0,0,0,Low,Tertiary,Student,Not crowded,29,0,Rural,False
+41,Female,Ethnicity3,0,0,0,15,0,0,0,0,Low,Primary,Student,Crowded,466,1,Rural,False
+20,Female,Ethnicity1,0,0,0,96,0,0,0,0,Low,Tertiary,Student,Crowded,422,0,Rural,False
+98,Male,Ethnicity2,0,0,0,39,0,0,0,0,Low,Primary,Student,Not crowded,283,0,Rural,False
+79,Female,Ethnicity1,0,0,0,36,0,0,0,0,Medium,Secondary,Student,Crowded,119,0,Urban,False
+72,Male,Ethnicity2,0,0,0,88,0,0,0,0,High,Primary,Unemployed,Not crowded,168,0,Rural,False
+44,Male,Ethnicity1,0,0,0,88,0,0,0,0,Medium,Tertiary,Student,Crowded,215,0,Urban,False
+18,Female,Ethnicity3,0,0,0,83,0,1,0,1,High,None,Employed,Not crowded,21,1,Urban,True
+93,Male,Ethnicity2,0,0,0,50,1,0,1,0,High,Tertiary,Unemployed,Crowded,75,0,Rural,True
+34,Male,Ethnicity2,0,0,0,16,0,0,0,1,Medium,Primary,Unemployed,Not crowded,307,0,Urban,False
+88,Female,Ethnicity3,0,0,0,88,0,0,0,0,Medium,Tertiary,Student,Crowded,295,0,Rural,False
+85,Female,Ethnicity3,0,0,0,40,1,0,0,0,Low,Primary,Employed,Not crowded,417,1,Rural,True
+8,Female,Ethnicity1,0,1,0,51,0,1,0,0,Medium,Secondary,Student,Crowded,99,1,Rural,True
+1,Male,Ethnicity2,0,0,1,28,0,0,1,0,Low,Secondary,Unemployed,Crowded,487,0,Urban,False
+73,Male,Ethnicity2,0,0,0,79,0,0,0,0,High,Secondary,Unemployed,Not crowded,154,0,Rural,False
+91,Female,Ethnicity2,0,0,0,91,0,0,0,0,Low,None,Unemployed,Crowded,169,0,Urban,False
+93,Male,Ethnicity3,0,0,0,47,0,0,0,0,Low,Primary,Student,Crowded,329,0,Urban,False
+53,Female,Ethnicity1,0,0,0,23,0,0,0,0,High,Secondary,Employed,Not crowded,444,1,Urban,False
+27,Male,Ethnicity3,0,0,0,95,0,0,0,0,Low,Primary,Student,Not crowded,123,0,Rural,False
+18,Female,Ethnicity3,0,0,0,21,0,1,0,1,Medium,Primary,Student,Crowded,328,0,Urban,False
+61,Female,Ethnicity3,0,0,0,72,0,0,0,0,Low,Secondary,Employed,Crowded,343,0,Urban,False
+98,Female,Ethnicity2,0,0,0,44,0,0,0,0,High,Primary,Student,Not crowded,80,0,Rural,False
+83,Male,Ethnicity3,0,0,0,92,0,0,1,0,Medium,Secondary,Unemployed,Not crowded,399,0,Urban,False
+32,Male,Ethnicity3,0,0,0,95,0,0,0,0,Low,Primary,Student,Crowded,19,0,Rural,False
+44,Male,Ethnicity2,0,1,0,0,0,0,0,0,Medium,Secondary,Student,Not crowded,199,0,Rural,False
+52,Female,Ethnicity1,0,0,0,2,0,1,0,1,Low,Primary,Student,Not crowded,201,0,Urban,False
+15,Male,Ethnicity2,0,0,0,87,0,0,0,0,High,Secondary,Employed,Not crowded,78,0,Urban,False
+51,Female,Ethnicity2,0,0,0,26,0,0,0,0,Medium,None,Employed,Crowded,23,0,Rural,False
+17,Female,Ethnicity1,0,0,0,35,0,0,0,0,High,None,Unemployed,Crowded,296,0,Rural,False
+90,Male,Ethnicity2,0,0,0,49,0,0,0,1,High,Primary,Unemployed,Crowded,240,0,Rural,False
+36,Female,Ethnicity3,0,0,0,93,0,0,0,0,Medium,None,Student,Not crowded,333,0,Urban,False
+62,Male,Ethnicity2,0,0,0,48,0,1,0,0,Medium,Tertiary,Unemployed,Crowded,296,0,Urban,False
+83,Male,Ethnicity2,0,1,0,81,0,0,0,0,Low,Tertiary,Student,Not crowded,146,0,Urban,False
+37,Female,Ethnicity1,0,0,0,50,0,0,0,0,High,Secondary,Student,Not crowded,206,0,Rural,False
+22,Male,Ethnicity1,0,0,0,24,0,0,1,0,High,Tertiary,Employed,Crowded,207,1,Urban,False
+43,Female,Ethnicity3,0,0,0,31,0,0,0,0,Medium,Tertiary,Student,Crowded,254,1,Urban,False
+39,Female,Ethnicity3,1,0,0,8,1,0,1,0,Low,Primary,Student,Crowded,96,0,Urban,True
+21,Male,Ethnicity1,0,0,0,46,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,472,0,Rural,False
+9,Male,Ethnicity3,0,0,0,63,0,0,1,1,Low,None,Unemployed,Not crowded,429,0,Urban,False
+16,Male,Ethnicity3,0,0,1,38,0,0,0,0,High,Secondary,Employed,Crowded,127,0,Urban,False
+56,Male,Ethnicity2,1,0,0,82,0,0,1,1,High,Primary,Unemployed,Crowded,24,0,Urban,True
+56,Male,Ethnicity2,0,0,0,74,0,0,0,0,Low,Primary,Employed,Not crowded,398,0,Rural,False
+40,Female,Ethnicity3,0,1,0,80,0,0,0,1,Medium,Secondary,Student,Not crowded,356,0,Urban,False
+39,Female,Ethnicity2,0,1,0,49,0,0,0,1,High,Secondary,Unemployed,Crowded,399,0,Rural,False
+46,Female,Ethnicity3,0,0,0,85,0,0,0,1,Low,Tertiary,Student,Crowded,499,1,Rural,False
+27,Male,Ethnicity2,0,0,0,75,0,1,0,0,Low,Primary,Unemployed,Not crowded,436,0,Rural,False
+51,Male,Ethnicity2,0,0,0,62,0,0,0,0,Low,Primary,Student,Not crowded,172,0,Urban,False
+66,Male,Ethnicity3,0,0,0,37,0,0,1,0,Low,Secondary,Unemployed,Not crowded,332,0,Rural,False
+76,Male,Ethnicity1,0,0,0,67,0,0,0,0,Medium,None,Unemployed,Not crowded,311,1,Rural,False
+96,Female,Ethnicity2,0,0,0,70,0,0,0,0,Medium,None,Student,Not crowded,479,0,Urban,False
+37,Female,Ethnicity3,1,0,0,4,1,0,1,0,High,None,Employed,Not crowded,458,0,Rural,True
+6,Male,Ethnicity2,0,0,0,48,0,0,0,0,High,Tertiary,Unemployed,Crowded,448,0,Rural,False
+75,Female,Ethnicity3,0,0,0,61,0,0,1,0,Medium,Primary,Student,Crowded,232,0,Urban,False
+48,Male,Ethnicity1,0,0,0,68,0,0,0,1,Low,Tertiary,Student,Crowded,14,0,Urban,False
+5,Female,Ethnicity3,0,0,0,46,0,0,0,0,Low,Primary,Unemployed,Not crowded,454,0,Urban,False
+80,Female,Ethnicity1,0,0,0,34,0,0,0,0,High,Primary,Student,Crowded,450,1,Rural,False
+73,Female,Ethnicity1,0,0,0,4,0,0,0,1,High,Secondary,Student,Not crowded,360,0,Rural,False
+33,Female,Ethnicity2,0,0,0,80,0,0,1,0,Medium,Tertiary,Unemployed,Crowded,218,0,Rural,False
+0,Male,Ethnicity1,0,0,0,73,0,0,0,0,High,Primary,Employed,Not crowded,451,0,Rural,False
+9,Female,Ethnicity3,0,0,0,64,0,1,1,0,High,Secondary,Student,Not crowded,221,0,Rural,True
+41,Female,Ethnicity2,0,0,0,12,0,0,1,0,Low,Tertiary,Unemployed,Not crowded,127,0,Rural,False
+16,Female,Ethnicity1,0,0,0,5,0,0,0,1,Medium,Primary,Unemployed,Not crowded,71,0,Rural,False
+38,Female,Ethnicity1,0,0,0,61,0,1,0,0,High,Primary,Student,Crowded,129,0,Rural,False
+5,Female,Ethnicity2,0,0,0,73,0,1,0,0,Medium,Primary,Student,Not crowded,96,0,Rural,False
+56,Female,Ethnicity3,0,0,0,82,1,0,1,1,Medium,Tertiary,Student,Not crowded,426,1,Urban,True
+30,Female,Ethnicity3,0,0,0,24,0,0,1,0,Medium,Primary,Employed,Crowded,102,1,Urban,False
+44,Female,Ethnicity1,0,0,0,28,0,0,0,0,High,Primary,Student,Crowded,1,0,Rural,False
+53,Female,Ethnicity3,0,0,0,74,0,0,1,1,High,Tertiary,Unemployed,Crowded,451,0,Rural,False
+9,Female,Ethnicity1,0,0,0,31,0,0,0,0,Low,Secondary,Employed,Not crowded,46,0,Urban,False
+94,Male,Ethnicity3,0,0,0,94,1,0,1,0,High,None,Employed,Not crowded,403,1,Rural,True
+78,Female,Ethnicity3,0,0,0,99,0,0,1,0,Medium,Primary,Student,Crowded,414,0,Rural,False
+20,Male,Ethnicity2,0,0,0,49,0,0,0,0,Low,Primary,Unemployed,Crowded,65,0,Rural,False
+45,Female,Ethnicity1,0,0,0,29,0,1,0,0,High,Tertiary,Unemployed,Not crowded,324,0,Rural,False
+94,Male,Ethnicity3,0,0,0,57,0,0,0,0,Medium,Primary,Student,Not crowded,234,0,Rural,False
+12,Female,Ethnicity1,0,0,0,26,0,1,0,0,High,Tertiary,Student,Not crowded,79,0,Urban,False
+63,Male,Ethnicity1,0,0,0,75,0,0,0,1,High,Primary,Unemployed,Not crowded,3,0,Urban,False
+91,Male,Ethnicity1,0,0,0,28,0,0,0,1,High,Primary,Employed,Crowded,148,0,Rural,False
+86,Female,Ethnicity1,0,0,0,71,0,0,0,0,Low,Secondary,Unemployed,Not crowded,304,1,Urban,False
+46,Male,Ethnicity3,0,0,0,40,0,0,0,0,Medium,None,Employed,Not crowded,393,0,Urban,False
+13,Male,Ethnicity3,0,0,1,54,0,1,0,0,Medium,Tertiary,Employed,Crowded,272,0,Urban,False
+84,Male,Ethnicity3,0,1,0,21,0,0,0,0,Low,Secondary,Unemployed,Not crowded,462,1,Urban,False
+31,Female,Ethnicity2,0,0,0,21,0,0,0,1,High,Primary,Employed,Not crowded,22,0,Urban,False
+79,Female,Ethnicity1,0,0,0,83,0,0,0,0,High,Tertiary,Unemployed,Not crowded,406,0,Rural,False
+78,Female,Ethnicity3,0,0,0,79,0,0,1,0,Medium,Primary,Unemployed,Crowded,196,0,Urban,False
+38,Female,Ethnicity3,1,0,0,75,0,1,0,0,High,Tertiary,Unemployed,Crowded,407,0,Urban,True
+11,Female,Ethnicity3,0,0,0,56,0,0,0,0,Medium,Tertiary,Student,Not crowded,33,0,Rural,False
+22,Male,Ethnicity3,0,0,0,56,1,0,0,0,Medium,None,Student,Crowded,165,1,Urban,True
+97,Male,Ethnicity3,0,0,0,70,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,62,0,Rural,False
+33,Female,Ethnicity1,0,0,0,47,0,0,0,0,Low,Secondary,Student,Not crowded,7,0,Urban,False
+20,Male,Ethnicity2,0,0,0,60,0,0,0,1,Medium,Secondary,Employed,Not crowded,7,0,Rural,False
+34,Male,Ethnicity3,0,0,0,28,0,0,0,0,Medium,Primary,Student,Crowded,311,0,Urban,False
+72,Female,Ethnicity1,0,0,0,1,0,0,0,1,High,Secondary,Employed,Not crowded,91,0,Urban,False
+86,Female,Ethnicity2,0,0,0,53,1,0,1,0,Low,Tertiary,Unemployed,Crowded,465,1,Urban,True
+75,Female,Ethnicity2,0,0,0,68,0,0,0,0,Medium,Primary,Employed,Crowded,7,1,Rural,False
+13,Male,Ethnicity2,0,0,0,96,0,0,0,0,Medium,Tertiary,Student,Crowded,32,0,Urban,False
+89,Male,Ethnicity3,0,1,0,80,0,0,0,1,High,Primary,Unemployed,Crowded,6,0,Urban,False
+58,Female,Ethnicity3,0,0,0,69,0,0,0,0,High,Primary,Student,Not crowded,171,0,Urban,False
+86,Male,Ethnicity2,0,0,0,4,0,0,0,0,Medium,Primary,Unemployed,Not crowded,400,1,Rural,False
+47,Female,Ethnicity1,0,1,0,25,0,0,1,0,Low,Primary,Employed,Crowded,284,0,Urban,False
+2,Female,Ethnicity1,0,0,0,35,0,0,0,0,High,None,Employed,Crowded,206,0,Rural,False
+34,Female,Ethnicity2,0,0,0,63,0,0,0,0,High,None,Unemployed,Not crowded,408,0,Rural,False
+36,Male,Ethnicity1,0,0,0,50,0,0,0,0,High,Tertiary,Unemployed,Crowded,74,0,Rural,False
+40,Male,Ethnicity3,0,0,0,88,0,0,0,0,Medium,Tertiary,Student,Not crowded,332,0,Urban,False
+81,Male,Ethnicity1,0,0,0,84,0,0,0,0,High,Tertiary,Unemployed,Not crowded,316,0,Rural,False
+45,Female,Ethnicity2,0,1,0,15,0,0,0,0,Medium,None,Employed,Not crowded,312,0,Urban,False
+91,Female,Ethnicity3,0,0,0,17,1,0,0,1,High,Secondary,Employed,Crowded,398,0,Rural,False
+33,Female,Ethnicity1,0,0,0,2,0,0,0,0,Low,Tertiary,Employed,Not crowded,56,0,Rural,False
+86,Female,Ethnicity1,0,1,0,98,0,0,0,0,Low,Secondary,Student,Not crowded,425,0,Urban,False
+76,Male,Ethnicity2,0,0,0,15,0,0,0,0,Medium,None,Unemployed,Not crowded,420,1,Rural,False
+31,Male,Ethnicity3,0,0,1,32,0,0,0,0,High,Tertiary,Student,Crowded,495,0,Urban,False
+64,Female,Ethnicity3,0,0,1,31,0,0,0,1,Medium,Tertiary,Student,Crowded,306,0,Urban,False
+42,Male,Ethnicity3,1,1,0,96,0,0,0,0,High,Primary,Employed,Not crowded,51,0,Rural,False
+43,Female,Ethnicity1,0,0,0,12,0,0,0,0,Low,Primary,Unemployed,Not crowded,18,0,Urban,False
+25,Female,Ethnicity2,0,0,0,42,0,1,0,0,Low,None,Unemployed,Crowded,278,0,Urban,False
+32,Female,Ethnicity1,0,0,0,74,0,0,0,0,Low,Secondary,Employed,Crowded,303,0,Urban,False
+91,Female,Ethnicity3,0,0,0,26,0,0,0,0,Medium,Tertiary,Unemployed,Not crowded,224,0,Urban,False
+37,Female,Ethnicity2,0,0,0,59,0,0,0,1,Medium,Primary,Student,Crowded,114,0,Rural,False
+33,Male,Ethnicity3,0,0,0,71,0,0,0,1,Medium,None,Unemployed,Not crowded,210,0,Rural,False
+26,Male,Ethnicity1,0,0,0,67,0,0,0,1,Medium,Secondary,Unemployed,Crowded,467,0,Urban,False
+89,Female,Ethnicity2,0,0,0,92,0,1,0,0,Medium,Tertiary,Employed,Not crowded,263,0,Urban,False
+63,Male,Ethnicity2,1,0,0,21,0,0,0,0,High,Secondary,Employed,Not crowded,238,0,Rural,False
+12,Male,Ethnicity2,0,0,0,70,0,0,0,0,Medium,None,Employed,Crowded,176,0,Urban,False
+84,Male,Ethnicity3,0,0,0,6,0,1,0,0,Low,Tertiary,Student,Crowded,266,0,Rural,False
+43,Female,Ethnicity2,0,0,0,14,0,0,0,0,Low,Tertiary,Student,Not crowded,420,0,Rural,False
+17,Male,Ethnicity2,0,0,0,38,0,0,0,0,Medium,Tertiary,Student,Crowded,35,0,Rural,False
+51,Female,Ethnicity3,0,0,0,63,0,0,0,0,Low,Primary,Employed,Not crowded,232,0,Urban,False
+21,Male,Ethnicity3,0,0,0,9,0,0,0,0,High,Secondary,Employed,Not crowded,84,1,Urban,False
+79,Male,Ethnicity2,0,0,0,41,0,0,0,0,High,None,Employed,Not crowded,494,0,Rural,False
+34,Female,Ethnicity3,0,0,1,47,0,0,1,0,Medium,Primary,Unemployed,Crowded,107,0,Rural,False
+33,Female,Ethnicity1,0,0,0,22,0,0,0,0,High,Tertiary,Employed,Crowded,462,0,Urban,False
+93,Male,Ethnicity1,0,0,0,0,1,0,0,0,Low,Tertiary,Employed,Not crowded,479,0,Urban,False
+30,Male,Ethnicity1,0,0,0,82,0,0,1,0,Medium,Tertiary,Employed,Crowded,475,0,Urban,False
+43,Male,Ethnicity2,0,1,0,19,0,1,1,1,Low,Tertiary,Employed,Not crowded,328,0,Urban,False
+47,Male,Ethnicity1,0,0,0,56,0,0,1,0,High,Secondary,Student,Not crowded,113,1,Rural,True
+27,Male,Ethnicity1,0,0,0,20,0,0,0,0,High,Secondary,Student,Crowded,36,1,Urban,False
+5,Female,Ethnicity3,1,1,0,51,0,0,1,0,Low,Secondary,Employed,Crowded,174,0,Rural,True
+56,Female,Ethnicity3,0,0,0,90,0,0,0,0,High,Secondary,Unemployed,Crowded,415,0,Urban,False
+59,Female,Ethnicity1,0,0,0,74,0,0,0,0,Medium,None,Employed,Crowded,375,0,Urban,False
+36,Female,Ethnicity2,0,0,0,73,0,0,0,1,High,Tertiary,Employed,Not crowded,309,0,Rural,False
+52,Male,Ethnicity1,0,0,0,37,0,0,0,0,Medium,Primary,Employed,Not crowded,210,1,Rural,False
+0,Male,Ethnicity2,0,0,0,62,1,1,1,1,Low,Tertiary,Student,Crowded,186,0,Urban,True
+80,Female,Ethnicity3,0,0,0,54,0,0,0,1,Medium,Tertiary,Unemployed,Crowded,404,0,Rural,False
+54,Female,Ethnicity3,0,0,0,89,0,1,0,0,Low,Tertiary,Unemployed,Not crowded,484,1,Urban,True
+19,Female,Ethnicity2,0,0,0,94,0,0,0,0,Medium,Primary,Student,Not crowded,224,0,Rural,False
+25,Female,Ethnicity1,0,1,0,12,0,0,0,1,Medium,None,Student,Crowded,188,0,Urban,False
+54,Female,Ethnicity3,0,0,1,82,0,0,0,1,Medium,Secondary,Student,Not crowded,129,0,Urban,False
+2,Male,Ethnicity2,0,0,0,6,0,0,0,0,High,None,Student,Not crowded,493,0,Urban,False
+70,Female,Ethnicity3,0,0,0,92,0,0,1,0,Low,Primary,Unemployed,Crowded,450,0,Rural,False
+11,Male,Ethnicity1,0,0,0,61,0,0,0,0,High,Secondary,Student,Crowded,396,0,Rural,False
+4,Female,Ethnicity1,0,0,0,15,0,0,0,0,High,Secondary,Unemployed,Not crowded,439,0,Rural,False
+50,Female,Ethnicity2,0,0,0,53,0,0,0,0,Low,Secondary,Unemployed,Not crowded,106,0,Rural,False
+62,Female,Ethnicity3,0,0,0,98,0,1,0,1,High,Secondary,Unemployed,Crowded,79,0,Rural,False
+21,Female,Ethnicity3,0,0,0,9,0,0,0,0,Low,Primary,Employed,Crowded,401,0,Urban,False
+26,Male,Ethnicity1,0,0,0,15,0,0,0,0,Medium,Secondary,Unemployed,Not crowded,144,1,Rural,False
+50,Female,Ethnicity2,0,0,0,22,1,0,0,0,High,Tertiary,Employed,Crowded,51,0,Urban,False
+64,Male,Ethnicity1,0,0,0,69,1,0,1,0,Medium,Primary,Student,Not crowded,203,0,Urban,True
+94,Female,Ethnicity3,1,0,0,88,0,0,0,0,High,Primary,Student,Crowded,362,0,Urban,False
+20,Female,Ethnicity1,0,0,0,88,0,0,0,0,Medium,Primary,Unemployed,Not crowded,307,0,Urban,False
+21,Female,Ethnicity2,0,0,0,95,0,0,0,0,High,None,Employed,Crowded,380,0,Urban,False
+34,Female,Ethnicity3,0,0,0,73,0,0,0,0,Medium,Secondary,Student,Crowded,453,1,Rural,False
+85,Female,Ethnicity2,0,0,1,65,0,0,1,0,High,Tertiary,Unemployed,Not crowded,229,0,Urban,False
+91,Female,Ethnicity1,0,0,0,17,0,0,0,0,Low,Primary,Employed,Crowded,135,0,Urban,False
+97,Male,Ethnicity3,0,0,0,63,0,0,0,1,Medium,None,Student,Not crowded,31,0,Urban,False
+0,Male,Ethnicity2,0,0,0,36,0,0,0,0,Medium,Secondary,Student,Crowded,352,1,Urban,False
+1,Female,Ethnicity1,0,0,1,12,1,0,1,0,Medium,Primary,Unemployed,Crowded,361,0,Rural,False
+97,Female,Ethnicity3,1,0,0,11,0,0,0,0,Low,None,Unemployed,Crowded,325,0,Rural,False
+95,Male,Ethnicity3,0,1,0,40,0,0,0,0,High,Secondary,Unemployed,Not crowded,29,0,Rural,False
+37,Female,Ethnicity3,0,1,0,85,0,0,0,0,Low,None,Student,Crowded,477,0,Rural,False
+21,Male,Ethnicity2,0,1,0,16,1,0,0,0,Low,Primary,Student,Crowded,49,0,Urban,False
+96,Female,Ethnicity3,0,0,0,13,0,0,0,0,High,Primary,Student,Not crowded,436,0,Rural,False
+7,Female,Ethnicity1,0,0,0,3,0,1,1,0,High,Tertiary,Employed,Crowded,261,0,Urban,False
+49,Female,Ethnicity3,0,0,0,60,0,0,0,1,Low,Secondary,Unemployed,Not crowded,94,0,Rural,False
+1,Female,Ethnicity1,0,0,0,56,0,0,0,0,High,None,Student,Crowded,21,0,Urban,False
+32,Male,Ethnicity3,0,0,0,78,0,0,0,0,High,Tertiary,Employed,Not crowded,198,0,Urban,False
+13,Female,Ethnicity3,0,0,0,97,0,0,1,1,Low,Tertiary,Employed,Crowded,190,0,Rural,False
+24,Female,Ethnicity2,0,0,0,74,0,0,0,0,Low,Secondary,Employed,Not crowded,163,0,Urban,False
+60,Female,Ethnicity3,0,0,0,27,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,73,0,Urban,False
+43,Male,Ethnicity3,0,0,0,64,0,0,0,0,Low,None,Student,Not crowded,150,0,Rural,False
+56,Female,Ethnicity1,0,0,0,90,0,0,0,0,High,Primary,Student,Crowded,167,1,Urban,False
+7,Male,Ethnicity2,1,0,0,94,0,0,0,0,Low,Secondary,Unemployed,Not crowded,133,0,Rural,False
+65,Male,Ethnicity3,0,0,0,45,0,0,1,0,High,None,Unemployed,Not crowded,83,0,Rural,False
+92,Female,Ethnicity1,0,0,0,56,0,0,0,0,Low,None,Unemployed,Not crowded,120,1,Rural,False
+15,Male,Ethnicity3,0,0,0,62,0,0,0,0,High,None,Student,Crowded,255,1,Urban,False
+0,Female,Ethnicity1,0,1,0,8,0,0,0,1,Medium,Primary,Unemployed,Crowded,31,0,Urban,False
+62,Male,Ethnicity2,0,0,0,71,1,0,0,0,Low,Secondary,Unemployed,Crowded,160,0,Urban,False
+0,Female,Ethnicity1,0,0,0,82,1,0,0,0,Low,Primary,Employed,Crowded,346,0,Rural,False
+54,Male,Ethnicity2,0,0,0,89,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,246,1,Urban,False
+63,Female,Ethnicity2,0,0,0,49,0,0,0,0,High,Primary,Unemployed,Not crowded,478,1,Urban,False
+74,Male,Ethnicity3,0,0,0,9,0,1,0,0,Low,Primary,Employed,Crowded,190,0,Urban,False
+80,Female,Ethnicity1,0,0,0,78,1,0,0,0,High,Primary,Employed,Not crowded,109,0,Urban,False
+78,Female,Ethnicity3,0,0,0,26,0,0,1,0,Medium,Secondary,Student,Not crowded,494,0,Urban,False
+21,Male,Ethnicity3,0,0,0,35,0,0,0,0,Low,Primary,Employed,Crowded,283,0,Rural,False
+17,Male,Ethnicity1,0,0,0,82,0,0,0,0,Low,Tertiary,Student,Crowded,489,0,Rural,False
+8,Female,Ethnicity2,0,0,0,4,0,0,0,0,Low,None,Student,Crowded,395,0,Rural,False
+53,Female,Ethnicity3,0,0,0,74,0,1,0,0,Low,Primary,Student,Not crowded,126,0,Urban,False
+23,Male,Ethnicity2,0,0,0,0,0,0,0,0,High,Primary,Student,Crowded,315,0,Rural,False
+59,Male,Ethnicity3,0,0,0,25,1,0,0,0,Medium,Secondary,Unemployed,Crowded,389,0,Rural,False
+83,Female,Ethnicity3,1,0,0,21,0,0,0,0,Low,Tertiary,Employed,Not crowded,67,0,Rural,False
+73,Female,Ethnicity2,0,0,0,29,0,0,1,0,High,Primary,Employed,Not crowded,296,0,Rural,False
+46,Female,Ethnicity1,0,0,0,99,0,0,0,0,High,None,Unemployed,Not crowded,175,0,Rural,False
+89,Female,Ethnicity1,0,0,0,69,0,0,0,1,High,Tertiary,Unemployed,Crowded,122,0,Urban,False
+55,Male,Ethnicity2,0,0,0,51,0,0,0,0,Low,Primary,Student,Not crowded,397,0,Urban,False
+17,Female,Ethnicity2,0,0,0,39,1,0,0,1,Medium,Secondary,Student,Crowded,154,0,Urban,False
+21,Female,Ethnicity3,0,0,0,21,0,0,0,1,Low,Primary,Student,Not crowded,466,0,Rural,False
+99,Male,Ethnicity1,0,0,0,51,0,1,0,0,High,None,Student,Not crowded,396,0,Rural,False
+76,Female,Ethnicity1,0,0,0,19,0,0,0,0,Low,Primary,Employed,Not crowded,488,0,Urban,False
+46,Female,Ethnicity2,0,0,0,26,0,0,0,0,Medium,Primary,Employed,Not crowded,88,0,Urban,False
+42,Male,Ethnicity2,0,0,0,81,1,0,0,0,Low,Tertiary,Unemployed,Crowded,135,0,Urban,False
+21,Female,Ethnicity2,0,0,0,92,1,0,0,0,Low,Primary,Unemployed,Not crowded,257,1,Rural,True
+98,Male,Ethnicity1,0,0,0,79,0,0,1,0,High,Primary,Student,Not crowded,265,0,Urban,False
+74,Female,Ethnicity1,0,0,0,66,1,1,0,0,High,Tertiary,Student,Crowded,48,0,Urban,True
+69,Male,Ethnicity3,0,0,0,29,0,0,0,0,Low,Primary,Unemployed,Crowded,193,0,Urban,False
+57,Female,Ethnicity3,0,1,0,99,0,0,0,0,High,Secondary,Student,Not crowded,334,0,Rural,False
+57,Male,Ethnicity1,0,0,0,1,0,0,0,0,High,Primary,Unemployed,Crowded,327,0,Urban,False
+62,Male,Ethnicity3,0,0,0,85,0,0,0,1,High,None,Student,Not crowded,269,0,Urban,False
+95,Female,Ethnicity2,0,0,1,51,0,0,0,0,Low,Secondary,Student,Crowded,252,0,Rural,False
+80,Female,Ethnicity1,0,0,0,70,0,0,0,1,High,Primary,Student,Crowded,248,0,Rural,False
+13,Female,Ethnicity2,0,0,0,26,0,0,0,1,High,Secondary,Student,Crowded,241,0,Urban,False
+88,Female,Ethnicity3,0,1,0,16,0,0,0,1,High,Secondary,Employed,Crowded,268,0,Urban,False
+42,Female,Ethnicity1,0,0,0,33,1,0,0,0,Low,Tertiary,Employed,Not crowded,359,0,Urban,False
+60,Male,Ethnicity2,1,0,0,13,0,0,1,0,Low,Tertiary,Employed,Not crowded,483,0,Rural,False
+19,Female,Ethnicity2,0,0,0,19,0,1,0,0,Medium,Tertiary,Student,Not crowded,275,0,Urban,False
+27,Female,Ethnicity2,0,0,0,29,0,0,0,0,High,Tertiary,Unemployed,Crowded,224,0,Rural,False
+98,Male,Ethnicity1,0,0,0,51,0,0,0,0,Low,Tertiary,Unemployed,Crowded,266,0,Urban,False
+99,Male,Ethnicity3,0,0,0,21,0,0,0,0,Medium,Tertiary,Student,Not crowded,364,1,Urban,False
+99,Male,Ethnicity1,0,0,1,11,0,0,1,1,Medium,None,Employed,Not crowded,70,0,Rural,False
+49,Male,Ethnicity1,0,0,0,9,0,0,0,0,Medium,Secondary,Unemployed,Crowded,472,0,Rural,False
+97,Male,Ethnicity3,0,0,0,45,0,0,0,0,Low,Secondary,Unemployed,Crowded,10,0,Rural,False
+96,Female,Ethnicity2,0,0,0,20,0,0,0,1,Medium,Tertiary,Unemployed,Not crowded,440,1,Rural,False
+94,Female,Ethnicity2,0,0,0,10,0,1,0,0,Medium,None,Employed,Crowded,338,0,Rural,False
+70,Female,Ethnicity1,0,0,0,3,0,0,0,0,High,Primary,Student,Crowded,131,0,Urban,False
+95,Male,Ethnicity1,0,0,0,38,0,0,0,0,Low,Tertiary,Student,Crowded,343,1,Rural,False
+93,Male,Ethnicity3,0,0,0,40,0,0,0,1,Medium,Tertiary,Unemployed,Crowded,226,0,Rural,False
+44,Female,Ethnicity2,0,1,0,25,1,0,0,0,Medium,Primary,Unemployed,Not crowded,338,0,Rural,False
+74,Female,Ethnicity1,0,1,0,51,0,0,0,0,Low,Primary,Employed,Crowded,385,0,Urban,False
+50,Male,Ethnicity3,0,0,0,4,0,0,0,0,Low,None,Employed,Crowded,466,0,Urban,False
+6,Male,Ethnicity3,0,0,0,52,0,0,0,1,High,Tertiary,Employed,Not crowded,301,0,Urban,False
+46,Female,Ethnicity2,0,1,0,14,0,0,1,1,High,Primary,Unemployed,Not crowded,280,0,Rural,False
+47,Male,Ethnicity3,0,0,0,7,0,0,0,0,Medium,Primary,Student,Crowded,98,1,Rural,False
+74,Female,Ethnicity3,0,0,0,22,0,0,0,0,Low,Secondary,Unemployed,Not crowded,476,0,Urban,False
+95,Male,Ethnicity2,0,0,0,64,0,0,1,0,Medium,None,Student,Crowded,145,0,Rural,False
+58,Male,Ethnicity1,0,0,0,31,1,0,0,0,Medium,None,Employed,Crowded,373,1,Rural,True
+6,Male,Ethnicity1,0,0,0,44,0,0,0,0,High,None,Employed,Not crowded,299,0,Urban,False
+2,Female,Ethnicity3,0,0,0,66,0,0,0,1,High,Secondary,Employed,Not crowded,20,0,Urban,False
+63,Male,Ethnicity2,0,0,0,39,1,0,0,0,High,Secondary,Employed,Not crowded,396,1,Urban,True
+33,Female,Ethnicity2,0,0,0,9,0,0,1,1,Low,Secondary,Unemployed,Not crowded,69,0,Urban,False
+98,Male,Ethnicity3,0,0,0,10,0,1,0,1,Medium,Secondary,Unemployed,Crowded,144,0,Rural,False
+58,Male,Ethnicity1,0,0,0,4,1,0,0,0,Medium,None,Employed,Not crowded,27,0,Rural,False
+24,Male,Ethnicity1,0,0,0,43,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,319,0,Urban,False
+7,Male,Ethnicity2,0,0,0,48,0,0,0,1,High,Tertiary,Unemployed,Not crowded,434,0,Rural,False
+63,Male,Ethnicity1,0,0,0,90,1,0,0,0,Low,None,Student,Not crowded,336,0,Urban,False
+36,Female,Ethnicity1,0,0,0,67,0,0,0,0,Medium,Primary,Unemployed,Not crowded,477,0,Urban,False
+18,Male,Ethnicity1,0,0,0,97,0,0,0,0,High,Tertiary,Unemployed,Crowded,439,0,Rural,False
+2,Female,Ethnicity3,0,0,1,27,0,0,0,0,Low,Primary,Unemployed,Not crowded,199,0,Urban,False
+94,Female,Ethnicity1,1,0,0,88,0,0,0,1,Medium,Tertiary,Unemployed,Not crowded,74,0,Urban,False
+69,Female,Ethnicity3,0,0,0,44,0,0,0,1,Medium,Tertiary,Employed,Crowded,329,0,Rural,False
+33,Male,Ethnicity1,0,0,0,44,0,0,0,0,High,Secondary,Unemployed,Not crowded,491,0,Urban,False
+6,Female,Ethnicity2,0,0,0,41,1,0,0,0,High,Primary,Student,Crowded,184,0,Urban,False
+40,Male,Ethnicity3,0,1,0,81,0,1,0,0,High,Primary,Student,Crowded,350,0,Rural,False
+86,Female,Ethnicity1,0,0,0,43,0,0,1,1,Medium,Primary,Student,Not crowded,360,1,Rural,True
+80,Male,Ethnicity3,0,0,0,47,0,0,0,1,Medium,Tertiary,Student,Crowded,467,0,Urban,False
+0,Female,Ethnicity3,0,0,0,49,0,1,0,0,Medium,Tertiary,Student,Not crowded,458,0,Urban,False
+85,Male,Ethnicity3,0,0,0,26,0,0,0,1,Low,Tertiary,Unemployed,Crowded,444,0,Rural,False
+51,Male,Ethnicity1,0,0,0,94,0,0,0,0,Low,Primary,Unemployed,Not crowded,160,0,Rural,False
+10,Female,Ethnicity1,1,0,1,1,0,0,0,0,High,Secondary,Student,Crowded,238,1,Rural,False
+34,Female,Ethnicity2,0,0,0,75,0,0,0,0,Low,None,Employed,Not crowded,60,0,Urban,False
+79,Male,Ethnicity2,0,0,0,99,0,1,0,1,Medium,Tertiary,Unemployed,Crowded,398,0,Rural,False
+28,Male,Ethnicity3,0,0,0,58,1,0,1,0,Medium,None,Employed,Not crowded,481,0,Rural,True
+10,Male,Ethnicity2,0,0,0,94,0,1,1,1,Medium,Primary,Student,Not crowded,349,0,Rural,True
+2,Female,Ethnicity2,0,0,0,27,0,0,0,0,High,Tertiary,Employed,Crowded,131,0,Urban,False
+93,Female,Ethnicity3,0,0,1,97,0,0,0,0,Low,Secondary,Unemployed,Crowded,238,0,Urban,False
+38,Female,Ethnicity3,0,0,0,17,0,0,0,0,Low,Primary,Employed,Not crowded,412,0,Rural,False
+85,Male,Ethnicity1,0,0,0,66,0,0,0,0,Medium,Tertiary,Employed,Crowded,344,0,Rural,False
+18,Male,Ethnicity1,1,0,1,10,1,0,0,1,Low,None,Unemployed,Not crowded,457,0,Rural,False
+62,Female,Ethnicity3,0,0,0,87,0,0,0,0,Medium,Tertiary,Employed,Crowded,232,0,Urban,False
+6,Female,Ethnicity1,0,0,0,7,0,0,0,0,Low,Secondary,Student,Not crowded,435,0,Rural,False
+10,Male,Ethnicity2,0,0,0,20,0,0,1,1,Low,Secondary,Unemployed,Not crowded,106,0,Urban,False
+44,Male,Ethnicity2,0,1,0,8,0,0,1,0,High,Primary,Employed,Crowded,402,0,Urban,False
+53,Male,Ethnicity2,0,0,0,18,0,1,0,0,High,None,Employed,Not crowded,230,0,Rural,False
+84,Female,Ethnicity3,0,0,1,45,0,0,0,0,Low,Primary,Unemployed,Crowded,68,0,Rural,False
+41,Female,Ethnicity3,0,0,1,84,0,0,1,1,High,Primary,Employed,Not crowded,154,0,Urban,False
+73,Male,Ethnicity1,0,0,0,12,1,1,0,0,Low,Secondary,Employed,Crowded,202,1,Urban,True
+52,Male,Ethnicity1,0,0,0,72,0,0,0,0,Medium,Secondary,Student,Not crowded,377,0,Urban,False
+12,Female,Ethnicity1,0,1,0,57,0,0,0,1,Low,Primary,Student,Not crowded,409,0,Rural,False
+32,Male,Ethnicity2,0,0,0,15,0,0,0,0,High,Primary,Employed,Not crowded,177,0,Rural,False
+62,Male,Ethnicity3,0,0,0,98,1,0,0,0,Low,Tertiary,Unemployed,Crowded,328,1,Rural,True
+43,Female,Ethnicity1,0,0,0,18,0,1,0,1,Medium,Primary,Unemployed,Not crowded,449,0,Rural,False
+24,Female,Ethnicity3,0,0,0,33,0,0,0,0,Low,None,Employed,Crowded,388,0,Rural,False
+33,Male,Ethnicity2,0,0,0,8,0,1,0,0,Low,Tertiary,Employed,Crowded,420,0,Rural,False
+3,Female,Ethnicity3,0,0,0,57,1,1,0,0,Low,Tertiary,Employed,Not crowded,106,0,Urban,True
+49,Male,Ethnicity2,0,0,0,48,0,0,0,0,Medium,None,Employed,Not crowded,394,1,Urban,False
+13,Male,Ethnicity2,0,0,0,89,0,0,0,0,Low,Primary,Unemployed,Not crowded,24,1,Urban,False
+92,Female,Ethnicity1,0,0,0,41,0,0,0,0,High,None,Unemployed,Crowded,457,0,Urban,False
+29,Male,Ethnicity1,0,0,0,42,0,1,1,0,High,Primary,Unemployed,Crowded,246,0,Urban,True
+36,Female,Ethnicity3,0,0,0,28,0,1,0,0,Medium,Primary,Unemployed,Not crowded,44,0,Rural,False
+57,Male,Ethnicity3,0,0,0,75,0,0,0,0,Medium,Secondary,Unemployed,Not crowded,133,1,Rural,False
+22,Male,Ethnicity1,0,0,0,54,0,0,0,0,High,Tertiary,Student,Crowded,391,0,Rural,False
+84,Female,Ethnicity2,0,0,0,91,1,0,0,0,Low,Primary,Student,Crowded,317,0,Rural,False
+24,Female,Ethnicity2,0,1,0,86,0,0,1,0,Low,Primary,Student,Crowded,484,0,Urban,False
+20,Male,Ethnicity2,0,0,0,91,0,1,0,0,Low,Tertiary,Student,Crowded,474,0,Urban,False
+19,Female,Ethnicity1,0,0,0,18,0,0,1,1,Medium,None,Employed,Crowded,124,0,Urban,False
+32,Male,Ethnicity1,0,0,0,40,0,0,0,0,High,Primary,Unemployed,Not crowded,281,1,Rural,False
+45,Male,Ethnicity1,0,0,0,16,0,0,0,1,Medium,Secondary,Employed,Crowded,6,0,Urban,False
+20,Female,Ethnicity1,0,0,0,14,0,0,0,0,High,Secondary,Student,Crowded,349,0,Rural,False
+54,Female,Ethnicity3,0,0,0,54,1,0,1,0,Medium,Tertiary,Employed,Not crowded,135,0,Rural,True
+43,Male,Ethnicity2,0,0,0,47,0,0,0,0,Medium,Primary,Student,Crowded,194,0,Urban,False
+93,Female,Ethnicity2,0,0,0,16,0,0,0,0,High,None,Employed,Crowded,389,0,Urban,False
+15,Male,Ethnicity2,0,0,0,86,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,217,0,Rural,False
+9,Male,Ethnicity2,0,0,0,3,0,0,0,1,Medium,None,Unemployed,Crowded,47,0,Rural,False
+81,Male,Ethnicity2,0,0,0,57,1,0,0,0,High,Tertiary,Student,Not crowded,22,0,Urban,False
+98,Male,Ethnicity3,0,1,0,31,0,0,0,0,Medium,Tertiary,Employed,Not crowded,331,0,Rural,False
+15,Male,Ethnicity1,0,0,0,88,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,216,1,Rural,False
+37,Male,Ethnicity1,0,0,0,84,0,0,0,1,Medium,Primary,Unemployed,Crowded,220,0,Urban,False
+71,Female,Ethnicity1,0,0,0,41,0,0,0,1,Low,None,Student,Not crowded,93,0,Urban,False
+21,Female,Ethnicity1,0,0,0,41,0,0,0,0,Medium,Tertiary,Student,Not crowded,371,0,Urban,False
+72,Female,Ethnicity2,0,0,0,7,1,1,0,0,Medium,Tertiary,Employed,Not crowded,78,0,Rural,False
+18,Male,Ethnicity2,0,0,0,0,0,0,0,0,Low,Secondary,Employed,Crowded,142,0,Rural,False
+96,Male,Ethnicity1,0,0,0,87,0,0,0,0,Medium,Primary,Student,Not crowded,149,0,Urban,False
+93,Female,Ethnicity2,0,0,0,41,0,0,0,0,High,Primary,Unemployed,Not crowded,83,0,Rural,False
+85,Male,Ethnicity2,0,0,0,82,0,0,0,1,Medium,None,Student,Not crowded,397,0,Rural,False
+9,Male,Ethnicity2,0,1,0,21,0,0,0,0,High,None,Unemployed,Crowded,314,0,Urban,False
+68,Male,Ethnicity2,0,0,0,77,0,0,0,1,Low,None,Unemployed,Crowded,423,0,Urban,False
+66,Female,Ethnicity1,0,0,0,73,0,0,0,0,High,Primary,Student,Crowded,284,0,Rural,False
+36,Female,Ethnicity2,0,0,0,10,0,0,0,1,High,Primary,Employed,Crowded,461,1,Urban,False
+72,Female,Ethnicity3,0,0,0,32,0,0,0,0,Medium,None,Student,Crowded,44,0,Urban,False
+34,Male,Ethnicity1,0,0,0,5,0,0,1,0,Medium,None,Unemployed,Crowded,86,0,Rural,False
+56,Female,Ethnicity1,0,0,0,37,0,0,0,0,Low,None,Student,Not crowded,138,0,Urban,False
+99,Male,Ethnicity1,0,0,0,53,0,0,0,1,Low,None,Unemployed,Not crowded,447,0,Rural,False
+11,Female,Ethnicity1,0,1,0,53,0,1,0,0,Medium,None,Employed,Not crowded,223,0,Urban,False
+27,Male,Ethnicity1,0,0,1,39,0,0,0,0,High,Secondary,Student,Not crowded,498,1,Urban,False
+15,Female,Ethnicity3,0,0,0,7,0,0,1,1,Medium,Tertiary,Unemployed,Crowded,95,0,Rural,False
+40,Male,Ethnicity2,0,0,0,49,0,0,0,1,High,Tertiary,Student,Crowded,99,0,Urban,False
+45,Male,Ethnicity3,0,0,0,90,0,0,1,1,Medium,Secondary,Student,Not crowded,294,1,Rural,True
+66,Female,Ethnicity2,0,0,0,39,0,0,0,0,Low,None,Employed,Not crowded,482,0,Urban,False
+80,Female,Ethnicity1,0,0,0,35,0,0,0,0,Low,Tertiary,Employed,Crowded,393,0,Rural,False
+84,Female,Ethnicity1,0,0,0,89,0,1,0,0,High,Tertiary,Student,Not crowded,191,0,Urban,False
+25,Female,Ethnicity3,0,0,0,99,0,0,1,0,Low,Tertiary,Unemployed,Not crowded,297,0,Rural,False
+89,Male,Ethnicity2,0,0,0,0,0,0,1,0,High,Tertiary,Student,Crowded,136,0,Urban,False
+52,Female,Ethnicity3,0,0,0,70,1,0,1,0,Medium,Secondary,Employed,Crowded,148,0,Urban,True
+54,Female,Ethnicity1,0,0,0,37,0,0,0,1,High,None,Student,Crowded,162,0,Urban,False
+91,Female,Ethnicity2,0,0,0,9,0,0,0,1,High,Secondary,Employed,Not crowded,444,0,Urban,False
+13,Female,Ethnicity1,0,0,0,92,0,0,0,0,High,Secondary,Unemployed,Not crowded,259,0,Urban,False
+59,Female,Ethnicity3,0,0,0,73,0,0,1,0,Medium,Secondary,Student,Not crowded,356,0,Rural,False
+75,Female,Ethnicity3,0,0,0,27,0,0,0,0,Low,None,Unemployed,Not crowded,350,0,Urban,False
+97,Male,Ethnicity3,0,0,0,33,0,0,0,1,High,None,Employed,Not crowded,71,1,Urban,False
+25,Female,Ethnicity1,0,0,0,85,0,0,0,1,High,None,Employed,Not crowded,333,0,Urban,False
+33,Male,Ethnicity2,0,1,0,86,0,0,0,0,Medium,Primary,Unemployed,Crowded,46,0,Urban,False
+5,Female,Ethnicity1,0,1,0,24,0,0,0,0,High,Primary,Unemployed,Crowded,323,0,Urban,False
+6,Male,Ethnicity2,0,0,0,22,0,0,0,0,Medium,None,Student,Not crowded,297,0,Rural,False
+54,Female,Ethnicity1,0,0,0,95,0,1,0,0,Medium,Tertiary,Employed,Not crowded,368,0,Urban,False
+42,Male,Ethnicity3,0,0,0,18,1,0,0,1,High,None,Student,Crowded,233,0,Rural,False
+66,Male,Ethnicity3,0,0,0,19,0,0,0,0,Medium,Tertiary,Employed,Not crowded,241,1,Urban,False
+33,Female,Ethnicity3,0,0,0,89,1,0,1,0,High,None,Student,Not crowded,98,0,Rural,True
+0,Male,Ethnicity3,0,0,0,73,0,0,0,0,Low,Primary,Unemployed,Not crowded,15,0,Urban,False
+8,Female,Ethnicity3,0,0,0,47,0,0,0,0,Medium,Primary,Employed,Not crowded,107,0,Rural,False
+26,Female,Ethnicity3,0,0,0,91,0,1,0,0,Low,Primary,Student,Crowded,228,1,Rural,True
+94,Female,Ethnicity2,0,0,0,6,0,0,0,0,Medium,Primary,Student,Not crowded,113,0,Rural,False
+93,Male,Ethnicity1,0,1,0,29,0,0,0,0,Medium,Tertiary,Student,Not crowded,31,0,Rural,False
+98,Male,Ethnicity3,0,0,0,92,0,0,0,0,Low,Primary,Employed,Not crowded,135,0,Rural,False
+72,Male,Ethnicity2,0,1,0,89,0,0,0,0,Low,Primary,Employed,Not crowded,387,0,Urban,False
+98,Female,Ethnicity2,0,0,0,0,0,0,0,0,Medium,Secondary,Employed,Crowded,219,1,Urban,False
+27,Female,Ethnicity2,0,0,0,64,0,0,0,0,High,Primary,Unemployed,Not crowded,1,0,Rural,False
+97,Male,Ethnicity2,0,0,0,89,0,0,0,0,Low,Primary,Student,Not crowded,476,0,Rural,False
+12,Male,Ethnicity2,0,0,0,79,1,0,0,0,Medium,None,Student,Not crowded,323,0,Rural,False
+64,Male,Ethnicity3,0,0,0,50,0,0,0,0,High,None,Unemployed,Not crowded,209,0,Urban,False
+98,Male,Ethnicity3,0,0,0,66,0,0,0,0,Low,Tertiary,Student,Not crowded,474,0,Rural,False
+90,Male,Ethnicity3,0,0,0,39,0,0,0,1,High,Secondary,Student,Not crowded,187,0,Urban,False
+20,Male,Ethnicity2,0,0,0,25,0,0,1,0,Low,Tertiary,Employed,Not crowded,8,0,Urban,False
+53,Female,Ethnicity2,0,0,0,72,1,0,0,0,Medium,Primary,Student,Not crowded,417,0,Rural,False
+33,Male,Ethnicity3,0,0,0,24,0,0,0,1,Medium,Tertiary,Employed,Not crowded,347,0,Rural,False
+32,Male,Ethnicity2,0,0,0,25,0,1,0,0,High,Secondary,Employed,Crowded,148,0,Urban,False
+43,Female,Ethnicity1,0,1,1,80,0,0,0,0,Low,Primary,Unemployed,Not crowded,265,0,Urban,False
+16,Male,Ethnicity3,0,0,0,98,0,0,0,0,High,Secondary,Unemployed,Not crowded,33,0,Urban,False
+90,Female,Ethnicity3,0,1,0,93,0,0,0,0,High,None,Student,Not crowded,443,0,Urban,False
+77,Female,Ethnicity1,0,0,0,69,0,1,0,0,Low,Secondary,Student,Crowded,138,0,Urban,False
+66,Female,Ethnicity2,0,0,0,50,0,0,0,0,High,Primary,Unemployed,Not crowded,246,1,Rural,False
+27,Female,Ethnicity2,0,0,0,71,1,0,0,0,Medium,Tertiary,Student,Crowded,73,0,Rural,False
+22,Female,Ethnicity1,0,0,0,66,0,0,1,0,Medium,Primary,Employed,Crowded,143,0,Urban,False
+39,Female,Ethnicity1,0,0,0,94,0,0,0,0,Medium,None,Employed,Crowded,470,0,Urban,False
+49,Female,Ethnicity2,0,0,0,2,0,0,0,0,Low,Secondary,Student,Crowded,498,0,Rural,False
+60,Female,Ethnicity2,0,0,0,22,0,0,0,0,Low,Secondary,Employed,Not crowded,175,0,Urban,False
+76,Female,Ethnicity3,0,0,0,26,1,0,0,1,Low,Secondary,Unemployed,Not crowded,482,0,Rural,False
+18,Male,Ethnicity2,1,0,0,96,0,0,0,1,Low,Secondary,Employed,Not crowded,376,0,Urban,False
+35,Female,Ethnicity1,0,0,0,65,0,0,0,1,Medium,Primary,Unemployed,Not crowded,94,0,Rural,False
+33,Female,Ethnicity1,0,0,0,59,0,0,0,1,Medium,Primary,Unemployed,Not crowded,215,0,Urban,False
+74,Male,Ethnicity1,0,0,0,97,0,0,0,0,High,None,Employed,Crowded,399,0,Rural,False
+90,Female,Ethnicity1,0,1,0,80,0,0,0,0,Medium,Primary,Student,Crowded,62,0,Urban,False
+32,Male,Ethnicity3,0,0,0,22,0,0,0,0,High,None,Student,Not crowded,243,0,Urban,False
+75,Female,Ethnicity3,0,1,0,27,1,0,0,0,Medium,Primary,Unemployed,Not crowded,137,0,Urban,False
+71,Female,Ethnicity3,0,0,1,73,0,0,0,0,Low,None,Unemployed,Not crowded,197,0,Rural,False
+21,Female,Ethnicity3,0,0,0,31,0,0,0,0,Medium,None,Unemployed,Crowded,201,0,Rural,False
+77,Male,Ethnicity3,0,0,0,0,0,0,0,0,Low,None,Employed,Not crowded,287,0,Urban,False
+20,Male,Ethnicity1,0,0,0,36,0,0,0,0,High,Tertiary,Employed,Crowded,119,0,Rural,False
+40,Female,Ethnicity1,0,0,0,15,0,1,0,0,Low,Primary,Employed,Not crowded,475,0,Urban,False
+34,Female,Ethnicity2,0,0,0,56,0,0,0,0,High,Tertiary,Unemployed,Crowded,202,0,Urban,False
+37,Female,Ethnicity2,0,0,0,40,0,0,0,0,Medium,Secondary,Unemployed,Crowded,120,0,Urban,False
+75,Female,Ethnicity3,0,0,0,25,0,0,0,0,Medium,Secondary,Employed,Not crowded,5,0,Urban,False
+17,Male,Ethnicity2,0,0,0,55,0,0,1,0,High,Tertiary,Unemployed,Not crowded,476,0,Rural,False
+73,Female,Ethnicity2,0,0,0,96,0,1,0,0,Medium,Primary,Student,Crowded,293,1,Rural,True
+5,Male,Ethnicity1,0,0,0,63,0,0,0,0,Low,Tertiary,Student,Not crowded,485,0,Urban,False
+28,Male,Ethnicity3,0,0,0,21,0,0,0,0,Medium,Secondary,Employed,Crowded,112,0,Urban,False
+78,Male,Ethnicity1,0,0,0,52,1,0,0,1,Medium,Primary,Unemployed,Crowded,246,0,Rural,False
+28,Female,Ethnicity1,0,0,0,81,0,0,0,0,High,None,Student,Crowded,361,0,Urban,False
+70,Male,Ethnicity3,0,0,0,86,0,0,1,1,High,Tertiary,Employed,Not crowded,24,0,Rural,False
+71,Female,Ethnicity1,0,0,0,56,0,1,0,0,Low,Secondary,Student,Crowded,79,0,Urban,False
+57,Male,Ethnicity3,0,1,0,41,0,0,0,0,High,Primary,Unemployed,Crowded,163,1,Urban,False
+16,Female,Ethnicity2,1,0,0,15,0,1,0,0,High,Secondary,Employed,Crowded,297,0,Rural,False
+42,Female,Ethnicity1,0,0,0,41,0,1,0,0,High,Primary,Student,Crowded,191,0,Urban,False
+83,Female,Ethnicity2,0,0,0,43,0,0,0,0,High,None,Unemployed,Not crowded,288,0,Urban,False
+51,Female,Ethnicity1,0,0,0,56,0,0,0,0,High,Secondary,Employed,Crowded,274,0,Urban,False
+88,Female,Ethnicity2,0,0,0,85,1,0,0,0,Low,Secondary,Unemployed,Crowded,495,0,Rural,False
+94,Female,Ethnicity2,0,0,0,93,0,0,1,1,Medium,None,Employed,Crowded,289,0,Rural,False
+14,Female,Ethnicity3,0,0,0,67,0,0,0,0,High,Secondary,Employed,Not crowded,340,0,Rural,False
+99,Male,Ethnicity1,0,0,0,7,0,0,0,0,High,None,Unemployed,Not crowded,444,1,Rural,False
+91,Female,Ethnicity2,0,0,1,0,0,0,0,0,Medium,Tertiary,Student,Crowded,36,0,Urban,False
+78,Female,Ethnicity3,1,0,0,31,0,0,0,0,High,Tertiary,Unemployed,Not crowded,382,0,Rural,False
+42,Female,Ethnicity3,0,0,0,56,0,0,0,0,Medium,Primary,Unemployed,Crowded,421,1,Urban,False
+60,Male,Ethnicity3,0,0,0,44,0,0,0,0,Low,Tertiary,Employed,Not crowded,142,0,Urban,False
+59,Female,Ethnicity1,0,0,0,51,0,0,0,1,Medium,Primary,Student,Crowded,21,0,Rural,False
+38,Male,Ethnicity1,0,0,0,57,0,0,0,1,High,None,Employed,Not crowded,355,1,Urban,False
+96,Male,Ethnicity3,0,1,0,22,0,0,0,0,High,Primary,Employed,Not crowded,321,0,Urban,False
+78,Male,Ethnicity2,0,0,0,80,0,0,0,1,Low,Tertiary,Student,Crowded,23,0,Rural,False
+80,Female,Ethnicity3,0,0,0,14,0,0,0,0,Low,Secondary,Student,Not crowded,243,0,Rural,False
+65,Male,Ethnicity1,0,0,0,7,0,0,0,1,High,Secondary,Unemployed,Not crowded,172,0,Urban,False
+37,Female,Ethnicity1,0,0,0,17,0,0,0,0,Low,Tertiary,Student,Crowded,292,1,Rural,False
+12,Male,Ethnicity1,0,0,0,58,0,0,0,0,High,Tertiary,Unemployed,Crowded,335,1,Urban,False
+79,Male,Ethnicity2,0,0,0,93,0,0,1,0,Medium,Secondary,Unemployed,Not crowded,320,0,Urban,False
+57,Female,Ethnicity3,0,0,0,15,0,0,0,0,Medium,Tertiary,Employed,Crowded,183,0,Rural,False
+29,Female,Ethnicity2,0,0,0,43,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,253,0,Urban,False
+10,Male,Ethnicity2,0,0,0,3,0,0,0,0,Low,Primary,Employed,Crowded,42,0,Urban,False
+31,Female,Ethnicity2,0,0,0,61,0,0,0,0,Low,Tertiary,Student,Not crowded,299,0,Rural,False
+6,Male,Ethnicity1,0,0,0,53,0,0,0,0,Low,Primary,Employed,Not crowded,204,0,Rural,False
+13,Female,Ethnicity2,0,0,0,30,0,1,0,0,High,Tertiary,Student,Not crowded,269,0,Rural,False
+65,Male,Ethnicity1,0,1,0,71,0,0,0,0,Medium,None,Student,Not crowded,223,1,Rural,False
+15,Female,Ethnicity3,0,0,0,71,0,0,0,0,High,None,Employed,Crowded,151,0,Rural,False
+15,Female,Ethnicity3,0,1,0,5,0,0,0,0,High,Tertiary,Unemployed,Not crowded,76,0,Urban,False
+68,Male,Ethnicity3,0,0,0,77,1,0,0,0,Medium,Tertiary,Student,Crowded,497,1,Rural,True
+20,Male,Ethnicity1,0,0,0,11,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,187,1,Rural,False
+78,Female,Ethnicity1,0,0,0,5,0,0,0,1,High,None,Student,Not crowded,374,1,Urban,False
+39,Male,Ethnicity2,0,0,0,92,0,0,0,0,Medium,Secondary,Student,Crowded,247,0,Urban,False
+73,Male,Ethnicity3,0,0,0,54,0,0,0,0,Low,Secondary,Unemployed,Not crowded,120,0,Rural,False
+66,Male,Ethnicity2,0,1,0,23,0,0,0,0,Medium,None,Unemployed,Crowded,414,0,Urban,False
+17,Female,Ethnicity2,0,0,0,11,0,0,0,1,Low,None,Unemployed,Not crowded,149,0,Rural,False
+47,Male,Ethnicity1,0,1,0,72,0,0,0,1,Medium,Primary,Employed,Not crowded,282,0,Rural,False
+93,Female,Ethnicity1,0,0,0,89,0,0,0,1,Low,Primary,Student,Crowded,217,0,Rural,False
+48,Male,Ethnicity2,0,1,0,3,0,0,1,0,Medium,None,Student,Not crowded,485,0,Rural,False
+88,Male,Ethnicity2,0,0,0,98,0,0,0,0,Medium,Secondary,Unemployed,Not crowded,338,0,Urban,False
+22,Female,Ethnicity2,0,0,0,18,0,0,0,0,High,None,Employed,Not crowded,381,0,Rural,False
+6,Female,Ethnicity2,0,0,0,40,0,0,0,1,Medium,Secondary,Student,Not crowded,499,0,Urban,False
+73,Male,Ethnicity2,0,0,0,12,0,0,0,1,Medium,Primary,Unemployed,Crowded,239,0,Rural,False
+82,Female,Ethnicity3,0,0,0,81,0,0,0,0,Medium,None,Student,Crowded,400,0,Rural,False
+80,Female,Ethnicity2,0,0,0,83,0,0,1,0,Medium,None,Student,Not crowded,167,0,Rural,False
+81,Male,Ethnicity1,0,1,0,78,0,0,1,0,Low,Primary,Unemployed,Crowded,148,0,Rural,False
+15,Male,Ethnicity3,0,0,0,76,0,0,0,0,Low,Primary,Unemployed,Not crowded,385,0,Rural,False
+56,Male,Ethnicity2,0,0,0,27,1,0,0,0,Low,None,Employed,Crowded,382,0,Urban,False
+15,Male,Ethnicity3,0,0,0,73,1,0,0,1,High,Tertiary,Employed,Not crowded,189,0,Rural,False
+77,Female,Ethnicity1,0,0,0,42,1,0,0,0,Low,Secondary,Student,Crowded,302,0,Rural,False
+99,Female,Ethnicity1,0,0,0,18,0,0,0,0,High,Primary,Employed,Crowded,398,0,Urban,False
+79,Male,Ethnicity3,0,0,0,74,0,0,0,0,Low,Primary,Employed,Crowded,44,0,Urban,False
+30,Male,Ethnicity3,0,0,0,99,0,0,1,0,Medium,Primary,Unemployed,Not crowded,112,1,Rural,True
+23,Male,Ethnicity2,1,0,0,61,0,0,0,1,High,Primary,Student,Not crowded,144,0,Rural,False
+87,Male,Ethnicity3,0,0,0,1,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,16,0,Urban,False
+99,Male,Ethnicity1,0,0,0,36,0,0,0,0,Medium,None,Unemployed,Crowded,41,1,Rural,False
+11,Female,Ethnicity3,0,0,0,85,0,0,0,0,High,Primary,Student,Not crowded,302,0,Rural,False
+0,Female,Ethnicity2,0,0,0,91,1,0,0,0,Low,Tertiary,Employed,Crowded,0,0,Urban,False
+20,Female,Ethnicity3,0,0,0,27,1,1,0,0,High,Tertiary,Employed,Crowded,459,0,Rural,False
+7,Female,Ethnicity2,0,0,1,79,0,0,0,0,Medium,Secondary,Student,Not crowded,80,0,Urban,False
+29,Female,Ethnicity3,0,0,0,30,0,0,0,0,High,None,Student,Not crowded,481,0,Rural,False
+38,Female,Ethnicity2,0,0,0,49,0,0,0,0,Medium,Tertiary,Employed,Not crowded,217,0,Urban,False
+68,Female,Ethnicity1,0,0,1,1,0,0,0,0,Medium,None,Student,Not crowded,62,0,Rural,False
+27,Female,Ethnicity1,0,0,0,13,0,0,1,0,High,Tertiary,Student,Crowded,469,0,Urban,False
+4,Male,Ethnicity2,0,0,0,27,0,0,0,0,Medium,Primary,Student,Crowded,258,0,Rural,False
+36,Female,Ethnicity1,0,0,0,11,0,0,0,0,Medium,Primary,Employed,Crowded,95,0,Rural,False
+73,Male,Ethnicity2,1,0,0,30,0,0,0,0,Medium,Tertiary,Student,Crowded,392,0,Rural,False
+61,Female,Ethnicity2,0,0,0,5,0,1,0,0,High,Tertiary,Unemployed,Crowded,291,0,Urban,False
+44,Male,Ethnicity2,0,0,0,41,0,0,0,1,Low,Primary,Employed,Crowded,356,0,Rural,False
+84,Female,Ethnicity1,0,0,0,20,1,0,0,0,Low,None,Student,Not crowded,274,0,Urban,False
+34,Male,Ethnicity3,0,0,0,27,0,0,0,0,Low,Secondary,Employed,Crowded,111,0,Rural,False
+5,Female,Ethnicity2,0,0,0,47,0,0,1,0,Low,None,Student,Crowded,314,0,Rural,False
+47,Female,Ethnicity1,0,0,0,12,0,1,0,0,Medium,Tertiary,Student,Crowded,371,0,Urban,False
+34,Female,Ethnicity1,0,0,0,69,0,0,0,0,High,Primary,Employed,Not crowded,449,0,Urban,False
+85,Female,Ethnicity2,0,0,0,76,0,0,0,0,High,Primary,Unemployed,Not crowded,4,0,Rural,False
+52,Female,Ethnicity2,0,0,0,89,1,0,0,0,Medium,Tertiary,Student,Not crowded,175,0,Rural,False
+47,Female,Ethnicity1,0,0,0,51,0,0,0,0,High,Tertiary,Unemployed,Not crowded,160,0,Rural,False
+22,Female,Ethnicity1,0,1,0,62,1,0,0,0,Low,Secondary,Student,Crowded,86,0,Urban,False
+29,Male,Ethnicity1,0,0,0,30,0,0,0,1,Low,Primary,Unemployed,Crowded,108,0,Rural,False
+75,Female,Ethnicity2,0,0,0,8,0,0,0,0,High,Secondary,Employed,Not crowded,209,0,Rural,False
+80,Male,Ethnicity3,0,0,0,6,0,0,0,0,Medium,Tertiary,Student,Crowded,146,1,Rural,False
+4,Male,Ethnicity2,0,0,0,30,1,0,0,0,High,Tertiary,Unemployed,Crowded,487,0,Rural,False
+26,Female,Ethnicity1,0,0,0,14,0,0,0,0,High,None,Employed,Crowded,431,1,Urban,False
+12,Female,Ethnicity1,1,0,0,67,0,0,0,0,Medium,Tertiary,Unemployed,Not crowded,12,0,Rural,False
+11,Male,Ethnicity2,0,0,0,22,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,407,0,Urban,False
+60,Male,Ethnicity1,0,0,0,28,0,0,0,1,High,None,Unemployed,Crowded,380,1,Rural,False
+85,Female,Ethnicity3,0,0,0,63,0,0,0,1,Low,Primary,Student,Not crowded,449,0,Urban,False
+94,Female,Ethnicity3,0,0,0,2,0,0,0,0,High,Tertiary,Unemployed,Not crowded,77,0,Rural,False
+47,Male,Ethnicity1,0,0,0,94,0,0,0,0,Medium,Secondary,Employed,Crowded,149,0,Urban,False
+60,Male,Ethnicity3,0,0,1,16,0,0,0,0,Medium,Primary,Student,Not crowded,130,0,Urban,False
+0,Female,Ethnicity2,0,0,0,41,0,0,0,1,Medium,Tertiary,Student,Not crowded,329,0,Rural,False
+59,Male,Ethnicity3,0,0,0,94,0,0,1,0,High,Secondary,Unemployed,Not crowded,244,0,Urban,False
+84,Male,Ethnicity3,0,0,0,63,0,1,0,0,High,Secondary,Employed,Crowded,103,0,Rural,False
+72,Female,Ethnicity2,0,0,0,71,0,0,0,1,High,None,Student,Crowded,484,0,Rural,False
+43,Female,Ethnicity3,0,0,0,14,0,0,0,0,High,Primary,Unemployed,Crowded,63,0,Rural,False
+17,Male,Ethnicity1,0,0,0,80,0,0,0,0,High,Tertiary,Student,Crowded,31,1,Rural,False
+84,Male,Ethnicity2,0,0,0,15,0,0,0,0,Medium,Primary,Employed,Crowded,420,0,Urban,False
+17,Male,Ethnicity2,0,0,0,58,0,0,0,1,Medium,None,Unemployed,Not crowded,470,0,Urban,False
+87,Female,Ethnicity3,0,0,0,83,0,0,0,1,High,Secondary,Student,Not crowded,159,0,Urban,False
+29,Female,Ethnicity3,0,0,0,95,0,0,0,0,Low,Primary,Student,Not crowded,149,0,Urban,False
+45,Male,Ethnicity2,0,0,0,39,1,0,0,0,High,None,Student,Not crowded,107,0,Rural,False
+38,Female,Ethnicity3,0,0,0,33,0,0,0,0,Low,Secondary,Employed,Crowded,79,0,Urban,False
+31,Male,Ethnicity2,0,0,0,29,0,0,0,0,High,Tertiary,Employed,Not crowded,89,1,Urban,False
+71,Female,Ethnicity2,0,0,0,99,0,0,0,0,High,Secondary,Student,Not crowded,196,0,Rural,False
+75,Male,Ethnicity1,0,0,0,87,0,0,0,0,Medium,Tertiary,Student,Crowded,338,0,Urban,False
+13,Male,Ethnicity2,0,0,0,67,0,1,1,0,High,None,Student,Not crowded,316,0,Urban,True
+17,Male,Ethnicity3,0,0,0,68,0,0,0,1,Low,Primary,Unemployed,Not crowded,121,0,Urban,False
+56,Female,Ethnicity2,0,0,0,7,1,0,0,0,Medium,Primary,Student,Crowded,124,0,Rural,False
+60,Female,Ethnicity2,0,0,0,38,0,0,0,0,Low,Primary,Unemployed,Crowded,408,0,Urban,False
+64,Male,Ethnicity2,0,0,1,45,0,0,0,0,Low,Primary,Employed,Crowded,397,0,Urban,False
+26,Female,Ethnicity3,0,0,0,80,0,0,0,0,Medium,None,Employed,Not crowded,333,0,Rural,False
+58,Female,Ethnicity1,0,0,0,70,0,1,0,0,Medium,None,Employed,Crowded,355,0,Urban,False
+9,Male,Ethnicity3,0,0,0,50,0,0,0,0,High,None,Employed,Not crowded,78,0,Rural,False
+4,Female,Ethnicity3,0,0,0,31,1,0,0,0,High,Primary,Student,Crowded,102,0,Rural,False
+53,Male,Ethnicity2,0,0,0,48,0,0,0,0,High,Primary,Unemployed,Not crowded,482,0,Urban,False
+37,Female,Ethnicity2,1,0,0,33,0,0,0,0,Low,Tertiary,Employed,Not crowded,423,0,Urban,False
+21,Male,Ethnicity2,0,0,0,85,0,0,0,1,Medium,Secondary,Employed,Not crowded,43,0,Rural,False
+26,Female,Ethnicity3,0,0,0,11,0,0,0,0,Low,Secondary,Employed,Crowded,167,0,Urban,False
+8,Male,Ethnicity2,0,0,0,72,0,0,0,0,High,Secondary,Student,Not crowded,486,0,Rural,False
+23,Male,Ethnicity2,0,0,0,36,0,0,0,0,Low,Tertiary,Employed,Not crowded,149,0,Urban,False
+93,Male,Ethnicity2,0,0,0,36,0,0,0,0,Low,Primary,Unemployed,Not crowded,478,0,Urban,False
+79,Female,Ethnicity2,0,0,0,27,0,0,0,0,Low,Secondary,Unemployed,Crowded,176,1,Rural,False
+49,Female,Ethnicity3,0,0,0,82,0,0,0,1,High,None,Unemployed,Not crowded,306,0,Rural,False
+96,Female,Ethnicity1,0,0,0,51,0,0,0,0,Medium,Primary,Unemployed,Crowded,397,1,Rural,False
+4,Female,Ethnicity1,0,0,0,7,0,0,1,0,Low,Secondary,Student,Crowded,366,0,Rural,False
+20,Female,Ethnicity3,0,1,0,34,1,0,0,1,Low,Secondary,Student,Crowded,278,0,Rural,False
+61,Female,Ethnicity3,0,0,0,74,0,0,0,0,Low,Secondary,Employed,Crowded,397,0,Urban,False
+18,Female,Ethnicity2,1,0,0,10,0,0,0,0,Medium,Secondary,Student,Not crowded,284,0,Rural,False
+27,Female,Ethnicity3,0,0,0,97,0,0,0,0,High,Primary,Employed,Crowded,50,0,Rural,False
+83,Female,Ethnicity1,0,0,0,8,0,0,1,1,Medium,None,Employed,Not crowded,54,1,Rural,False
+49,Male,Ethnicity3,0,0,0,91,1,0,0,1,High,Tertiary,Student,Not crowded,115,0,Urban,False
+23,Female,Ethnicity3,0,0,0,57,0,0,0,1,Low,Primary,Student,Crowded,484,0,Rural,False
+91,Male,Ethnicity3,0,0,0,15,0,0,0,0,Low,Secondary,Student,Not crowded,333,0,Urban,False
+80,Female,Ethnicity2,0,0,0,20,0,1,0,0,High,Tertiary,Unemployed,Not crowded,298,1,Urban,False
+65,Male,Ethnicity2,0,0,0,96,0,0,0,0,High,Primary,Unemployed,Not crowded,329,0,Rural,False
+24,Female,Ethnicity3,0,0,0,59,0,0,1,0,Low,None,Unemployed,Crowded,343,0,Urban,False
+19,Male,Ethnicity2,0,0,0,55,0,0,0,1,Low,Primary,Employed,Not crowded,181,0,Rural,False
+92,Male,Ethnicity2,0,0,0,0,0,1,0,0,Medium,Tertiary,Employed,Not crowded,256,0,Rural,False
+50,Male,Ethnicity2,0,0,0,11,1,0,0,1,Medium,Tertiary,Unemployed,Not crowded,279,0,Rural,False
+90,Male,Ethnicity2,1,0,0,72,0,0,0,0,Low,None,Student,Crowded,232,0,Urban,False
+87,Female,Ethnicity3,0,1,0,86,0,0,0,0,Low,Secondary,Student,Not crowded,74,0,Rural,False
+74,Male,Ethnicity2,0,0,0,92,0,0,0,0,Medium,Tertiary,Student,Not crowded,394,1,Rural,False
+55,Male,Ethnicity3,0,0,0,75,0,0,0,1,Medium,Secondary,Student,Crowded,54,0,Rural,False
+4,Female,Ethnicity1,0,0,1,15,0,0,1,0,High,Primary,Unemployed,Crowded,368,0,Urban,False
+43,Male,Ethnicity1,0,1,1,7,0,0,0,0,High,None,Employed,Crowded,292,1,Rural,False
+81,Female,Ethnicity3,0,0,0,46,0,0,0,1,High,Secondary,Student,Not crowded,301,0,Rural,False
+42,Male,Ethnicity1,0,0,0,72,0,0,0,0,High,Tertiary,Employed,Not crowded,318,0,Rural,False
+59,Male,Ethnicity1,0,0,0,65,0,0,0,0,Low,Secondary,Student,Crowded,182,0,Rural,False
+93,Female,Ethnicity2,0,0,0,30,0,1,0,0,Medium,Tertiary,Employed,Not crowded,37,0,Urban,False
+72,Male,Ethnicity1,0,0,0,32,1,0,0,0,Low,Primary,Employed,Not crowded,217,0,Rural,False
+3,Female,Ethnicity3,0,0,0,40,0,1,1,0,High,Secondary,Employed,Crowded,174,0,Urban,True
+43,Male,Ethnicity2,0,1,0,1,0,0,0,0,Low,Primary,Student,Crowded,470,0,Rural,False
+73,Male,Ethnicity1,0,0,0,52,0,0,0,0,Medium,Tertiary,Student,Crowded,89,0,Rural,False
+46,Female,Ethnicity1,0,1,0,11,0,0,0,0,Low,Primary,Student,Crowded,98,0,Rural,False
+64,Female,Ethnicity2,0,0,0,4,0,0,0,0,High,Secondary,Student,Crowded,487,1,Rural,False
+80,Female,Ethnicity3,0,0,0,48,0,0,0,0,Medium,Primary,Student,Crowded,171,0,Rural,False
+28,Male,Ethnicity1,0,0,0,81,0,1,0,0,Low,Primary,Employed,Crowded,341,0,Rural,False
+26,Male,Ethnicity3,0,0,0,8,0,0,0,0,High,Secondary,Student,Not crowded,354,0,Urban,False
+51,Female,Ethnicity1,0,0,0,24,0,0,0,1,Low,None,Employed,Crowded,21,1,Urban,False
+44,Female,Ethnicity2,0,0,0,9,0,0,0,1,Medium,Tertiary,Unemployed,Crowded,408,0,Rural,False
+86,Female,Ethnicity2,0,0,0,5,0,0,0,0,High,Secondary,Employed,Not crowded,220,0,Urban,False
+93,Male,Ethnicity3,0,0,0,13,0,0,0,0,High,Secondary,Student,Not crowded,122,0,Rural,False
+70,Male,Ethnicity1,0,0,0,23,1,0,0,0,Low,Primary,Student,Crowded,15,0,Urban,False
+63,Female,Ethnicity1,0,0,0,43,0,0,0,0,High,Secondary,Unemployed,Not crowded,47,0,Rural,False
+73,Male,Ethnicity3,0,1,0,75,0,0,0,0,Medium,Secondary,Employed,Not crowded,399,0,Rural,False
+80,Male,Ethnicity3,0,0,0,38,0,0,0,0,High,None,Student,Crowded,417,1,Rural,False
+43,Male,Ethnicity2,0,0,0,3,0,0,0,1,Low,Tertiary,Employed,Not crowded,61,0,Urban,False
+2,Male,Ethnicity3,0,0,0,87,0,0,0,0,Low,Secondary,Unemployed,Not crowded,123,0,Rural,False
+86,Male,Ethnicity1,0,0,0,72,0,1,0,0,Medium,None,Student,Not crowded,439,0,Rural,False
+57,Male,Ethnicity3,0,0,0,89,1,0,0,1,Low,Tertiary,Student,Crowded,388,0,Urban,False
+20,Male,Ethnicity1,0,0,1,21,0,0,0,0,Medium,Secondary,Student,Crowded,421,0,Urban,False
+56,Female,Ethnicity2,0,0,0,41,0,1,0,0,High,Secondary,Employed,Crowded,417,0,Rural,False
+36,Male,Ethnicity1,0,0,0,68,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,179,0,Urban,False
+33,Female,Ethnicity3,0,0,0,88,0,0,0,0,Medium,Tertiary,Student,Not crowded,105,0,Rural,False
+56,Female,Ethnicity1,0,0,0,55,0,0,1,0,Low,None,Employed,Crowded,334,0,Rural,False
+92,Female,Ethnicity2,1,0,0,37,0,0,0,0,High,Primary,Unemployed,Crowded,45,0,Rural,False
+22,Male,Ethnicity3,1,0,0,90,0,0,0,0,Low,Primary,Unemployed,Not crowded,381,0,Rural,False
+29,Male,Ethnicity3,0,0,0,78,0,0,1,0,High,Tertiary,Unemployed,Not crowded,231,0,Urban,False
+11,Female,Ethnicity2,0,0,0,52,0,0,0,0,Low,Primary,Unemployed,Not crowded,169,1,Rural,False
+57,Female,Ethnicity3,0,0,0,34,0,0,0,0,High,Primary,Employed,Crowded,123,0,Rural,False
+92,Female,Ethnicity3,0,0,0,5,0,0,0,0,High,None,Student,Not crowded,245,0,Urban,False
+7,Female,Ethnicity1,0,1,0,25,0,0,0,1,Low,Secondary,Unemployed,Crowded,147,0,Urban,False
+0,Male,Ethnicity1,0,0,0,6,0,0,0,0,Medium,Tertiary,Employed,Crowded,368,0,Urban,False
+10,Male,Ethnicity1,0,0,0,19,0,1,0,0,Medium,Secondary,Student,Not crowded,212,0,Rural,False
+4,Male,Ethnicity1,0,1,0,95,0,1,0,1,High,None,Employed,Not crowded,442,0,Rural,False
+58,Male,Ethnicity3,0,0,0,52,0,0,0,0,Low,Primary,Unemployed,Not crowded,88,0,Rural,False
+3,Female,Ethnicity1,0,0,0,49,0,0,0,0,High,None,Employed,Not crowded,429,0,Rural,False
+19,Female,Ethnicity2,0,0,0,9,0,0,0,0,High,Tertiary,Employed,Crowded,88,0,Urban,False
+46,Male,Ethnicity1,0,1,0,36,0,0,0,0,High,Secondary,Employed,Crowded,485,0,Urban,False
+46,Male,Ethnicity3,0,0,0,22,0,0,0,1,Low,Primary,Unemployed,Crowded,425,0,Rural,False
+4,Male,Ethnicity1,0,0,0,88,0,0,0,1,High,Tertiary,Unemployed,Not crowded,177,0,Rural,False
+6,Female,Ethnicity3,0,0,0,60,0,0,0,0,Low,Primary,Student,Crowded,156,0,Rural,False
+11,Female,Ethnicity1,0,0,0,66,0,0,1,1,Medium,Secondary,Student,Not crowded,423,0,Urban,False
+16,Male,Ethnicity2,0,0,0,43,0,0,0,0,High,Primary,Employed,Not crowded,54,0,Urban,False
+15,Female,Ethnicity1,0,0,0,72,1,0,1,1,High,None,Student,Crowded,425,0,Rural,True
+97,Female,Ethnicity3,0,0,0,24,0,0,0,0,Low,Primary,Employed,Crowded,309,0,Rural,False
+49,Female,Ethnicity2,0,0,1,41,0,0,0,0,Low,Primary,Employed,Crowded,267,0,Urban,False
+72,Male,Ethnicity1,0,0,0,21,0,0,1,0,Medium,None,Student,Crowded,312,0,Rural,False
+57,Male,Ethnicity1,0,0,0,96,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,50,0,Rural,False
+46,Male,Ethnicity3,0,0,0,40,1,0,0,0,Medium,Tertiary,Unemployed,Not crowded,387,1,Rural,True
+87,Female,Ethnicity2,0,0,0,10,0,0,0,0,High,Primary,Unemployed,Not crowded,407,0,Urban,False
+42,Male,Ethnicity2,0,0,0,74,0,0,0,0,Low,Primary,Employed,Crowded,136,0,Urban,False
+12,Female,Ethnicity2,0,0,0,25,0,0,0,1,Medium,Primary,Unemployed,Crowded,68,0,Rural,False
+60,Female,Ethnicity2,0,1,0,18,0,1,0,0,Low,None,Employed,Crowded,399,0,Rural,False
+19,Female,Ethnicity2,0,0,0,37,0,0,0,0,High,Secondary,Employed,Not crowded,107,0,Rural,False
+92,Male,Ethnicity3,0,0,0,90,0,0,0,1,Medium,Primary,Unemployed,Crowded,90,0,Rural,False
+44,Male,Ethnicity3,0,0,0,21,0,0,0,0,Low,Primary,Unemployed,Crowded,310,0,Urban,False
+61,Male,Ethnicity1,0,0,0,60,1,0,0,0,Low,Secondary,Student,Not crowded,346,0,Urban,False
+44,Female,Ethnicity2,0,0,0,61,0,0,0,0,High,Primary,Student,Not crowded,89,1,Rural,False
+79,Female,Ethnicity1,0,1,0,7,0,1,0,0,Low,Tertiary,Employed,Crowded,78,0,Rural,False
+12,Female,Ethnicity2,0,0,0,38,0,0,0,1,Medium,None,Unemployed,Crowded,265,0,Urban,False
+11,Male,Ethnicity1,0,0,0,73,1,0,0,0,High,Secondary,Student,Crowded,477,0,Rural,False
+86,Female,Ethnicity1,0,0,0,13,0,0,0,0,Medium,None,Unemployed,Not crowded,341,0,Urban,False
+88,Female,Ethnicity2,0,0,0,98,0,0,0,0,High,Secondary,Employed,Not crowded,304,0,Urban,False
+66,Male,Ethnicity1,0,0,0,84,0,0,0,0,Low,Primary,Unemployed,Not crowded,367,1,Urban,False
+2,Female,Ethnicity2,0,0,0,7,1,0,1,1,High,None,Unemployed,Not crowded,39,1,Urban,True
+52,Female,Ethnicity2,0,0,0,75,0,0,1,0,Medium,None,Employed,Crowded,314,0,Rural,False
+49,Female,Ethnicity2,0,0,0,20,0,0,0,0,Low,None,Unemployed,Crowded,142,0,Urban,False
+82,Female,Ethnicity2,0,0,0,44,0,1,0,0,High,Primary,Student,Not crowded,499,0,Urban,False
+7,Female,Ethnicity2,0,0,0,85,1,1,0,0,Medium,Primary,Unemployed,Crowded,78,1,Rural,True
+13,Female,Ethnicity1,0,0,0,32,1,0,0,0,High,None,Employed,Crowded,421,1,Urban,True
+76,Male,Ethnicity1,0,0,0,43,0,1,0,0,Medium,Primary,Employed,Not crowded,19,1,Rural,True
+65,Female,Ethnicity1,0,0,0,92,0,0,1,0,High,Primary,Employed,Not crowded,279,1,Rural,True
+52,Male,Ethnicity3,0,0,0,65,0,0,0,1,High,Tertiary,Employed,Not crowded,462,0,Rural,False
+35,Female,Ethnicity1,0,0,0,83,0,0,0,0,High,None,Employed,Not crowded,143,0,Urban,False
+29,Female,Ethnicity1,0,0,0,84,0,0,0,1,High,Primary,Student,Not crowded,138,1,Rural,False
+52,Female,Ethnicity1,0,0,0,57,0,0,0,0,Low,Primary,Student,Crowded,123,0,Urban,False
+4,Male,Ethnicity3,0,0,0,71,0,1,0,0,Medium,Secondary,Employed,Crowded,16,0,Urban,False
+65,Female,Ethnicity1,0,0,0,47,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,187,0,Rural,False
+22,Male,Ethnicity2,0,0,0,35,0,0,1,0,High,Primary,Employed,Not crowded,474,0,Rural,False
+88,Female,Ethnicity1,0,0,1,92,1,0,0,1,Low,None,Student,Crowded,70,0,Rural,False
+36,Female,Ethnicity2,0,0,0,18,0,0,0,1,Medium,Secondary,Employed,Not crowded,113,0,Urban,False
+8,Male,Ethnicity2,0,0,0,13,0,1,0,0,Low,None,Student,Crowded,40,0,Rural,False
+43,Female,Ethnicity2,0,0,0,22,0,0,0,0,Medium,Primary,Unemployed,Not crowded,146,1,Urban,False
+94,Male,Ethnicity3,0,0,0,54,0,0,1,0,High,Tertiary,Employed,Crowded,396,0,Rural,False
+24,Male,Ethnicity1,0,0,0,99,0,1,0,1,High,None,Employed,Crowded,52,0,Urban,False
+36,Female,Ethnicity2,0,0,0,51,0,0,0,0,Low,Secondary,Employed,Crowded,478,0,Urban,False
+2,Male,Ethnicity3,0,0,0,94,0,0,0,0,High,Secondary,Student,Not crowded,0,1,Rural,False
+36,Male,Ethnicity3,0,0,0,75,0,0,0,1,Low,Primary,Student,Crowded,27,0,Rural,False
+89,Male,Ethnicity3,0,0,0,62,0,0,0,1,Medium,None,Employed,Crowded,298,0,Urban,False
+50,Male,Ethnicity3,0,0,0,85,0,0,1,0,Low,None,Unemployed,Not crowded,223,0,Urban,False
+84,Female,Ethnicity2,0,1,0,53,0,0,0,0,Low,Primary,Unemployed,Crowded,373,0,Rural,False
+48,Female,Ethnicity2,0,0,0,0,0,0,1,0,High,Secondary,Unemployed,Not crowded,16,0,Urban,False
+30,Male,Ethnicity3,1,0,0,5,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,218,0,Rural,False
+67,Female,Ethnicity2,0,0,0,57,0,0,0,1,Medium,Secondary,Employed,Crowded,394,0,Rural,False
+14,Male,Ethnicity2,0,0,0,21,0,0,0,0,Low,Primary,Student,Not crowded,242,0,Rural,False
+33,Male,Ethnicity2,0,0,0,45,0,0,0,0,High,Secondary,Unemployed,Not crowded,44,0,Urban,False
+29,Male,Ethnicity3,0,1,0,9,0,0,0,0,Low,None,Student,Crowded,238,0,Rural,False
+49,Female,Ethnicity2,0,0,0,39,1,0,1,0,Medium,Secondary,Unemployed,Crowded,183,0,Rural,True
+26,Male,Ethnicity3,0,0,0,78,0,0,1,0,Low,Secondary,Student,Crowded,197,0,Rural,False
+53,Male,Ethnicity1,0,0,0,74,0,0,0,0,Low,Tertiary,Employed,Not crowded,250,1,Urban,False
+98,Female,Ethnicity2,0,0,0,87,0,0,0,1,Low,Secondary,Employed,Crowded,223,1,Urban,False
+13,Male,Ethnicity2,0,0,0,63,0,1,0,0,Low,Tertiary,Employed,Crowded,428,1,Urban,True
+72,Female,Ethnicity3,0,0,0,34,1,1,0,0,Low,None,Unemployed,Crowded,263,0,Urban,True
+1,Male,Ethnicity1,0,0,0,4,0,0,0,0,Medium,None,Unemployed,Crowded,200,0,Rural,False
+10,Female,Ethnicity2,0,0,0,37,0,0,0,0,Low,Secondary,Student,Not crowded,188,1,Rural,False
+25,Female,Ethnicity2,0,0,0,88,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,254,0,Urban,False
+38,Male,Ethnicity3,0,0,0,13,0,0,0,0,Medium,Tertiary,Unemployed,Not crowded,152,0,Rural,False
+54,Female,Ethnicity3,0,0,0,15,0,0,0,0,Low,Secondary,Unemployed,Crowded,249,0,Rural,False
+0,Male,Ethnicity2,1,0,0,29,0,0,1,0,High,Tertiary,Student,Not crowded,282,0,Rural,False
+21,Male,Ethnicity3,0,0,0,79,0,0,0,0,High,None,Employed,Crowded,264,0,Rural,False
+98,Male,Ethnicity2,0,1,0,67,0,0,0,1,Medium,None,Student,Not crowded,235,1,Urban,False
+0,Male,Ethnicity3,0,0,0,57,0,0,0,0,High,Tertiary,Employed,Not crowded,199,0,Rural,False
+17,Female,Ethnicity1,0,0,0,53,0,0,0,0,High,Secondary,Employed,Crowded,37,0,Urban,False
+67,Male,Ethnicity2,0,0,0,20,0,0,1,0,Medium,Secondary,Unemployed,Not crowded,21,0,Urban,False
+24,Male,Ethnicity3,0,0,0,79,1,0,0,0,Medium,Primary,Unemployed,Not crowded,251,1,Urban,True
+96,Male,Ethnicity3,0,0,0,69,0,0,0,0,Medium,Primary,Student,Not crowded,421,0,Rural,False
+52,Male,Ethnicity3,0,0,0,18,1,0,0,0,Low,Secondary,Employed,Crowded,321,0,Rural,False
+0,Male,Ethnicity1,0,0,0,61,1,0,1,0,Low,Secondary,Employed,Crowded,449,0,Rural,True
+68,Male,Ethnicity1,0,0,0,7,0,0,0,0,High,Secondary,Student,Not crowded,142,0,Rural,False
+34,Male,Ethnicity1,0,0,0,37,0,0,0,0,Low,Secondary,Employed,Crowded,453,0,Urban,False
+99,Male,Ethnicity1,0,0,0,38,0,0,0,1,Low,None,Unemployed,Crowded,367,0,Rural,False
+9,Male,Ethnicity1,0,0,0,39,0,0,1,0,Low,Tertiary,Employed,Crowded,158,0,Urban,False
+29,Female,Ethnicity3,0,1,0,44,0,0,0,1,High,Tertiary,Employed,Crowded,22,0,Rural,False
+99,Male,Ethnicity3,0,0,0,74,1,0,0,0,Low,Tertiary,Unemployed,Crowded,448,0,Rural,False
+68,Female,Ethnicity1,0,0,0,28,0,0,1,1,High,Secondary,Unemployed,Crowded,241,0,Rural,False
+58,Male,Ethnicity1,0,0,0,13,0,0,0,1,High,Primary,Employed,Not crowded,124,0,Rural,False
+12,Male,Ethnicity2,0,0,0,11,1,0,0,0,Medium,Primary,Student,Crowded,409,0,Rural,False
+36,Male,Ethnicity1,0,0,0,68,0,0,0,0,High,None,Student,Not crowded,489,0,Urban,False
+4,Male,Ethnicity1,0,0,0,24,0,0,0,0,Low,Secondary,Unemployed,Not crowded,443,0,Rural,False
+17,Male,Ethnicity1,0,0,0,53,0,0,0,1,Low,None,Student,Not crowded,100,0,Rural,False
+61,Female,Ethnicity1,0,0,0,3,0,0,0,0,Low,None,Student,Not crowded,310,0,Urban,False
+21,Male,Ethnicity1,0,0,0,84,0,0,0,0,Medium,None,Student,Not crowded,66,0,Urban,False
+3,Male,Ethnicity1,0,0,0,69,1,0,0,0,Medium,Primary,Student,Not crowded,213,0,Urban,False
+11,Male,Ethnicity3,0,1,0,96,0,0,0,0,High,Secondary,Employed,Crowded,144,0,Urban,False
+3,Female,Ethnicity2,0,1,0,29,1,0,1,0,Low,Primary,Employed,Not crowded,454,0,Rural,False
+42,Female,Ethnicity3,0,0,0,18,0,0,0,0,Low,None,Unemployed,Not crowded,279,0,Rural,False
+21,Female,Ethnicity3,0,0,0,50,0,1,0,1,Medium,Tertiary,Student,Not crowded,260,0,Urban,False
+4,Female,Ethnicity2,1,0,0,99,0,0,0,0,High,Secondary,Employed,Not crowded,128,0,Rural,False
+91,Male,Ethnicity2,0,0,0,71,1,0,0,0,Medium,None,Student,Crowded,485,0,Rural,False
+45,Female,Ethnicity2,1,0,1,65,0,0,1,0,Medium,Primary,Employed,Not crowded,75,1,Urban,True
+17,Male,Ethnicity1,0,0,0,96,0,0,0,1,Low,None,Student,Not crowded,123,0,Rural,False
+30,Male,Ethnicity3,0,0,0,10,0,0,0,0,Low,Secondary,Employed,Not crowded,137,0,Rural,False
+88,Male,Ethnicity2,0,0,0,73,0,0,0,0,Medium,Primary,Employed,Crowded,74,0,Rural,False
+83,Female,Ethnicity3,0,0,0,51,0,0,0,0,Medium,Secondary,Employed,Crowded,484,1,Rural,False
+41,Male,Ethnicity1,0,1,0,15,0,0,0,0,Medium,Tertiary,Student,Crowded,352,0,Urban,False
+4,Female,Ethnicity2,0,0,0,58,0,0,0,0,Medium,Primary,Employed,Crowded,87,0,Rural,False
+89,Female,Ethnicity1,0,0,0,70,1,0,0,0,Low,None,Employed,Not crowded,243,0,Rural,False
+59,Female,Ethnicity3,0,0,0,72,1,0,0,0,Medium,Secondary,Employed,Not crowded,479,0,Rural,False
+61,Male,Ethnicity2,0,0,0,49,0,0,1,0,Low,Tertiary,Unemployed,Crowded,8,0,Rural,False
+67,Female,Ethnicity3,0,0,0,16,0,0,0,0,High,None,Employed,Crowded,117,0,Rural,False
+7,Female,Ethnicity3,0,1,0,78,0,0,0,0,High,Primary,Student,Not crowded,289,1,Urban,False
+78,Male,Ethnicity2,0,0,0,53,0,1,0,0,Medium,Primary,Student,Not crowded,219,0,Rural,False
+33,Male,Ethnicity2,0,0,0,72,0,0,0,0,Low,None,Student,Not crowded,415,1,Urban,False
+87,Male,Ethnicity3,0,0,0,68,0,0,0,0,Medium,None,Unemployed,Crowded,21,0,Rural,False
+40,Male,Ethnicity1,1,0,0,15,1,0,0,1,Low,Secondary,Student,Not crowded,62,0,Rural,False
+65,Male,Ethnicity1,1,0,0,28,0,0,0,1,Medium,Tertiary,Employed,Crowded,129,1,Rural,False
+19,Female,Ethnicity2,1,0,0,83,0,0,0,0,Low,None,Student,Crowded,490,0,Rural,False
+31,Male,Ethnicity3,0,0,0,79,0,0,0,1,Low,Tertiary,Unemployed,Crowded,320,0,Rural,False
+96,Male,Ethnicity1,0,0,0,97,0,0,0,0,High,Tertiary,Employed,Not crowded,389,1,Urban,False
+0,Female,Ethnicity1,0,0,0,92,0,0,0,0,Medium,None,Employed,Not crowded,96,0,Rural,False
+91,Male,Ethnicity1,1,0,0,86,0,0,0,0,Medium,Primary,Unemployed,Not crowded,257,1,Urban,True
+76,Female,Ethnicity3,0,0,0,92,0,0,0,0,High,None,Student,Crowded,482,1,Urban,False
+56,Male,Ethnicity1,0,0,0,4,0,0,0,0,Low,Secondary,Unemployed,Crowded,178,0,Rural,False
+7,Male,Ethnicity3,0,0,0,99,1,0,0,0,Low,Tertiary,Unemployed,Not crowded,272,0,Urban,False
+25,Male,Ethnicity3,0,0,0,63,0,1,0,1,Medium,Primary,Unemployed,Crowded,274,0,Rural,False
+56,Female,Ethnicity2,0,0,0,98,0,0,0,0,Medium,None,Student,Crowded,313,0,Rural,False
+16,Female,Ethnicity3,0,0,0,53,0,0,0,0,High,Tertiary,Student,Crowded,127,1,Urban,False
+7,Male,Ethnicity1,0,0,0,59,0,0,0,0,High,None,Student,Not crowded,182,0,Urban,False
+16,Female,Ethnicity1,0,0,0,95,1,0,0,1,High,Primary,Student,Not crowded,433,0,Urban,False
+96,Male,Ethnicity1,0,0,0,80,0,0,0,0,High,None,Employed,Crowded,261,0,Rural,False
+3,Female,Ethnicity2,0,0,0,37,0,1,0,0,High,None,Employed,Not crowded,491,0,Rural,False
+92,Female,Ethnicity1,1,0,0,42,1,1,0,0,High,None,Employed,Crowded,4,1,Urban,True
+48,Male,Ethnicity1,0,0,0,16,1,0,1,1,Low,Secondary,Unemployed,Crowded,210,0,Urban,False
+56,Male,Ethnicity3,0,0,1,23,0,1,0,1,Medium,None,Unemployed,Not crowded,239,0,Urban,False
+62,Female,Ethnicity1,0,0,0,37,0,0,0,1,Medium,Secondary,Unemployed,Crowded,397,1,Urban,False
+85,Female,Ethnicity1,0,0,0,60,0,1,0,0,Medium,Secondary,Student,Crowded,481,1,Rural,True
+44,Female,Ethnicity2,0,0,0,29,0,0,1,1,High,Primary,Employed,Not crowded,85,0,Rural,False
+18,Female,Ethnicity1,0,0,0,84,0,0,0,0,High,None,Student,Crowded,185,0,Urban,False
+17,Male,Ethnicity2,0,0,0,39,0,0,0,0,High,Tertiary,Unemployed,Not crowded,213,1,Urban,False
+6,Male,Ethnicity3,0,0,0,2,1,0,0,0,Medium,Secondary,Employed,Crowded,238,0,Urban,False
+5,Female,Ethnicity2,0,0,0,45,0,0,0,1,Medium,Tertiary,Unemployed,Not crowded,268,0,Rural,False
+15,Male,Ethnicity1,0,0,0,22,0,0,0,0,High,Primary,Student,Not crowded,403,1,Rural,False
+43,Male,Ethnicity1,0,1,0,54,0,0,0,0,Medium,Tertiary,Student,Crowded,166,0,Urban,False
+95,Male,Ethnicity1,0,0,0,32,1,0,0,0,Medium,Tertiary,Unemployed,Crowded,310,0,Urban,False
+99,Male,Ethnicity2,0,0,0,56,0,0,0,1,Medium,Primary,Student,Not crowded,36,0,Rural,False
+80,Male,Ethnicity2,0,1,0,75,1,1,0,0,Low,Tertiary,Employed,Not crowded,27,0,Urban,True
+47,Male,Ethnicity2,0,0,0,59,0,0,0,0,Medium,Primary,Employed,Not crowded,312,0,Urban,False
+63,Female,Ethnicity1,0,0,0,81,0,0,0,0,High,Tertiary,Student,Crowded,395,0,Urban,False
+69,Male,Ethnicity2,0,0,0,77,0,0,0,1,Medium,None,Student,Crowded,106,0,Urban,False
+39,Female,Ethnicity2,0,0,0,19,0,0,0,0,Medium,Tertiary,Employed,Crowded,413,0,Rural,False
+79,Female,Ethnicity3,0,0,0,98,0,0,0,0,Medium,Tertiary,Student,Crowded,277,0,Rural,False
+2,Female,Ethnicity1,0,0,0,85,0,1,0,1,Low,None,Unemployed,Crowded,159,1,Rural,True
+12,Female,Ethnicity2,0,0,0,19,0,0,0,0,Low,None,Unemployed,Not crowded,250,0,Rural,False
+60,Male,Ethnicity2,0,0,0,47,0,0,0,0,High,Tertiary,Employed,Not crowded,402,0,Urban,False
+74,Female,Ethnicity2,0,0,0,57,0,0,0,0,High,None,Student,Not crowded,469,0,Urban,False
+8,Male,Ethnicity2,1,0,0,49,0,0,0,1,Medium,Secondary,Employed,Not crowded,338,1,Urban,True
+66,Male,Ethnicity1,0,0,0,31,0,0,0,0,Medium,Secondary,Student,Not crowded,23,0,Urban,False
+7,Male,Ethnicity2,0,0,0,44,0,0,0,0,Medium,None,Employed,Crowded,59,0,Rural,False
+65,Male,Ethnicity2,0,0,0,30,0,0,0,1,High,None,Employed,Crowded,138,0,Urban,False
+10,Female,Ethnicity1,0,0,0,82,0,0,0,0,Low,Primary,Student,Crowded,498,0,Rural,False
+79,Female,Ethnicity3,0,0,0,71,0,0,0,0,High,Primary,Student,Crowded,310,0,Rural,False
+25,Male,Ethnicity1,0,0,0,75,0,0,0,0,Low,None,Unemployed,Crowded,30,0,Urban,False
+53,Female,Ethnicity1,0,0,0,87,0,0,0,0,Low,None,Student,Crowded,313,0,Urban,False
+91,Female,Ethnicity1,0,0,0,90,0,0,0,1,High,Secondary,Student,Not crowded,478,0,Rural,False
+42,Male,Ethnicity2,0,0,0,61,0,0,0,0,High,None,Unemployed,Not crowded,329,0,Rural,False
+59,Female,Ethnicity3,0,0,1,35,0,0,0,1,High,Tertiary,Employed,Crowded,194,0,Rural,False
+35,Male,Ethnicity3,1,1,0,2,1,0,0,1,High,Tertiary,Student,Not crowded,397,0,Urban,False
+11,Male,Ethnicity2,0,0,0,40,0,1,0,0,Medium,Tertiary,Employed,Crowded,113,0,Rural,False
+13,Female,Ethnicity3,0,0,0,0,0,0,0,0,Medium,None,Employed,Not crowded,459,0,Rural,False
+71,Male,Ethnicity1,0,0,0,76,0,0,0,0,High,Primary,Student,Crowded,398,0,Urban,False
+47,Male,Ethnicity1,0,0,0,89,0,1,0,0,Medium,Primary,Employed,Crowded,77,0,Rural,False
+58,Male,Ethnicity2,0,0,0,69,0,1,0,1,High,Primary,Unemployed,Not crowded,39,1,Urban,True
+97,Male,Ethnicity1,0,0,0,9,0,0,1,0,Low,Primary,Student,Not crowded,293,0,Urban,False
+27,Female,Ethnicity3,0,0,0,34,0,0,0,0,Medium,Primary,Employed,Not crowded,85,0,Urban,False
+72,Female,Ethnicity1,0,0,0,51,0,0,1,0,Low,Primary,Student,Crowded,91,0,Rural,False
+5,Male,Ethnicity3,0,0,0,23,0,0,0,0,Medium,Tertiary,Student,Not crowded,377,0,Rural,False
+62,Female,Ethnicity1,0,0,0,49,0,0,0,0,Low,Secondary,Employed,Not crowded,488,0,Rural,False
+89,Male,Ethnicity1,0,0,0,45,0,0,1,0,High,Primary,Employed,Crowded,208,0,Rural,False
+60,Female,Ethnicity2,0,0,0,15,0,0,0,0,Medium,Tertiary,Employed,Not crowded,134,1,Urban,False
+81,Female,Ethnicity2,0,0,0,58,0,0,0,0,Medium,Secondary,Unemployed,Crowded,128,0,Urban,False
+31,Male,Ethnicity3,1,0,0,48,1,0,0,0,Medium,Tertiary,Student,Crowded,9,0,Rural,True
+2,Male,Ethnicity3,0,0,0,20,0,0,0,0,Low,None,Unemployed,Crowded,352,0,Urban,False
+94,Female,Ethnicity1,0,0,0,71,0,1,0,0,Low,Secondary,Student,Not crowded,230,0,Urban,False
+68,Male,Ethnicity2,0,0,0,70,1,0,0,0,High,Secondary,Unemployed,Not crowded,318,0,Rural,False
+73,Male,Ethnicity3,0,0,0,36,0,0,1,0,Low,Primary,Student,Crowded,381,0,Rural,False
+5,Male,Ethnicity1,0,0,0,30,0,0,0,0,Low,Tertiary,Student,Not crowded,299,0,Rural,False
+51,Female,Ethnicity1,0,0,0,61,0,0,1,0,High,Tertiary,Student,Crowded,131,0,Urban,False
+52,Male,Ethnicity2,0,0,0,23,0,0,0,0,Medium,Primary,Student,Not crowded,56,0,Urban,False
+48,Male,Ethnicity1,0,0,0,8,0,0,0,0,High,None,Unemployed,Crowded,285,0,Rural,False
+51,Male,Ethnicity3,0,0,0,32,0,0,0,0,High,Tertiary,Student,Crowded,268,0,Urban,False
+51,Female,Ethnicity3,0,0,0,32,0,0,0,0,Low,Secondary,Unemployed,Crowded,405,0,Rural,False
+2,Male,Ethnicity3,0,0,0,15,0,0,0,0,Medium,Secondary,Employed,Not crowded,112,0,Urban,False
+38,Male,Ethnicity1,0,0,0,3,0,0,0,0,Medium,None,Student,Not crowded,223,0,Urban,False
+48,Female,Ethnicity3,0,0,0,94,0,0,0,0,Medium,Tertiary,Employed,Not crowded,470,0,Rural,False
+34,Male,Ethnicity2,0,0,0,76,0,0,0,0,High,Tertiary,Unemployed,Crowded,135,1,Urban,False
+20,Female,Ethnicity1,0,0,0,63,0,0,1,1,Medium,Tertiary,Student,Crowded,374,0,Rural,False
+62,Male,Ethnicity3,0,0,0,53,0,0,0,0,High,Secondary,Unemployed,Crowded,496,1,Rural,False
+85,Male,Ethnicity1,0,0,0,17,0,0,0,0,Medium,None,Unemployed,Not crowded,211,0,Urban,False
+68,Female,Ethnicity3,0,0,0,65,0,0,0,0,Low,Tertiary,Employed,Crowded,272,0,Urban,False
+9,Male,Ethnicity3,0,0,0,4,0,0,0,1,Low,Tertiary,Unemployed,Not crowded,474,0,Rural,False
+9,Male,Ethnicity3,0,0,0,10,0,0,1,1,Medium,None,Student,Crowded,240,0,Urban,False
+1,Female,Ethnicity3,0,0,0,52,0,1,0,0,Medium,None,Employed,Not crowded,355,0,Rural,False
+63,Male,Ethnicity3,0,0,1,1,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,472,0,Rural,False
+88,Female,Ethnicity2,0,0,0,18,0,0,0,0,High,Tertiary,Unemployed,Crowded,159,0,Rural,False
+5,Male,Ethnicity2,0,0,0,39,0,0,0,0,Low,None,Unemployed,Not crowded,308,1,Rural,False
+43,Female,Ethnicity3,0,0,1,42,0,1,0,0,High,Secondary,Student,Not crowded,226,0,Urban,False
+46,Female,Ethnicity2,0,0,0,56,0,1,0,0,Low,Tertiary,Employed,Crowded,272,0,Rural,False
+79,Male,Ethnicity1,0,1,0,81,0,0,0,0,High,None,Employed,Crowded,58,0,Urban,False
+6,Male,Ethnicity3,0,0,0,96,0,0,0,1,Medium,Secondary,Student,Crowded,270,0,Rural,False
+35,Female,Ethnicity3,0,0,0,63,1,1,0,0,Low,None,Employed,Crowded,223,0,Rural,True
+58,Male,Ethnicity1,0,0,0,11,0,0,0,0,Low,Primary,Student,Crowded,463,0,Rural,False
+15,Male,Ethnicity2,0,1,0,54,0,0,0,0,Medium,None,Unemployed,Not crowded,229,0,Rural,False
+82,Male,Ethnicity1,0,0,0,34,0,0,0,0,Low,Secondary,Employed,Crowded,205,1,Urban,False
+69,Male,Ethnicity1,0,0,0,65,0,0,1,0,High,Tertiary,Unemployed,Not crowded,416,0,Rural,False
+71,Female,Ethnicity1,0,0,0,61,1,0,1,0,High,Secondary,Employed,Not crowded,223,0,Urban,True
+76,Male,Ethnicity2,0,0,0,55,0,0,0,0,Low,Primary,Unemployed,Not crowded,303,0,Rural,False
+73,Female,Ethnicity2,0,0,0,98,0,0,0,0,Low,Secondary,Employed,Crowded,429,0,Rural,False
+30,Male,Ethnicity2,0,0,0,5,0,0,0,0,Medium,Secondary,Student,Not crowded,15,0,Urban,False
+28,Female,Ethnicity2,0,0,0,73,0,0,1,1,Low,None,Employed,Not crowded,79,0,Urban,False
+79,Male,Ethnicity1,0,0,0,16,0,0,0,0,Medium,Primary,Unemployed,Crowded,145,0,Rural,False
+21,Female,Ethnicity2,0,1,0,66,0,0,1,0,Medium,Primary,Unemployed,Not crowded,225,0,Rural,False
+83,Female,Ethnicity3,0,0,0,32,0,1,0,0,High,Secondary,Unemployed,Crowded,325,1,Urban,True
+58,Female,Ethnicity1,0,1,0,96,0,0,0,0,Low,Tertiary,Employed,Not crowded,121,0,Rural,False
+33,Female,Ethnicity1,0,0,0,89,0,0,0,0,Low,None,Student,Not crowded,14,0,Urban,False
+71,Male,Ethnicity2,0,0,0,43,0,0,0,0,Medium,Secondary,Unemployed,Not crowded,206,1,Urban,False
+75,Male,Ethnicity3,0,0,0,90,0,0,0,0,High,None,Employed,Not crowded,144,1,Rural,False
+94,Female,Ethnicity1,0,0,0,49,0,0,0,0,Medium,None,Unemployed,Crowded,16,0,Urban,False
+75,Female,Ethnicity3,0,0,0,69,0,0,0,0,Medium,Tertiary,Employed,Crowded,217,1,Rural,False
+87,Male,Ethnicity1,0,1,1,77,0,0,0,1,Low,None,Unemployed,Not crowded,354,0,Rural,False
+54,Female,Ethnicity2,0,0,0,96,0,1,0,1,Medium,None,Unemployed,Not crowded,448,0,Rural,False
+82,Female,Ethnicity2,0,0,0,47,0,0,0,1,High,Secondary,Student,Not crowded,363,1,Rural,False
+24,Female,Ethnicity2,1,1,0,14,0,0,0,0,Low,Primary,Unemployed,Not crowded,371,1,Urban,False
+16,Female,Ethnicity3,0,0,0,3,0,1,0,0,Low,Tertiary,Student,Crowded,161,0,Urban,False
+40,Male,Ethnicity1,0,0,0,58,0,0,0,0,Low,Secondary,Unemployed,Not crowded,72,1,Urban,False
+84,Male,Ethnicity2,0,0,0,77,0,0,0,0,High,Tertiary,Student,Crowded,435,0,Rural,False
+44,Female,Ethnicity3,0,0,1,61,0,0,1,0,High,Tertiary,Unemployed,Crowded,373,0,Rural,False
+93,Male,Ethnicity1,0,0,0,1,0,0,0,0,Low,Tertiary,Unemployed,Not crowded,123,0,Rural,False
+41,Male,Ethnicity2,0,1,0,68,0,0,0,0,Medium,Secondary,Employed,Crowded,378,0,Urban,False
+30,Female,Ethnicity2,0,0,0,31,1,0,0,0,Low,None,Student,Crowded,165,0,Rural,False
+95,Female,Ethnicity2,0,0,0,61,0,0,0,0,High,Secondary,Student,Crowded,486,0,Rural,False
+12,Female,Ethnicity2,0,0,0,71,0,0,1,0,Medium,Secondary,Unemployed,Crowded,127,0,Rural,False
+18,Male,Ethnicity2,0,0,0,26,0,0,1,0,Medium,None,Employed,Crowded,170,0,Rural,False
+98,Female,Ethnicity3,0,0,0,66,0,0,0,0,Low,Primary,Student,Not crowded,33,1,Urban,False
+86,Male,Ethnicity1,1,0,0,74,0,1,0,0,Medium,Secondary,Student,Not crowded,435,0,Rural,True
+31,Female,Ethnicity3,0,0,0,17,0,0,0,0,High,Primary,Unemployed,Not crowded,295,0,Rural,False
+74,Female,Ethnicity3,0,0,0,65,0,0,1,0,Low,Secondary,Student,Crowded,218,0,Urban,False
+34,Male,Ethnicity2,0,0,0,80,0,0,0,1,Medium,Secondary,Employed,Crowded,122,0,Urban,False
+14,Female,Ethnicity1,0,1,0,48,1,0,0,0,Low,Tertiary,Employed,Not crowded,305,0,Rural,False
+12,Female,Ethnicity1,0,0,0,11,0,0,1,0,High,None,Unemployed,Crowded,67,0,Rural,False
+16,Female,Ethnicity3,0,0,0,69,0,1,0,1,Low,None,Unemployed,Not crowded,467,0,Urban,False
+74,Female,Ethnicity1,0,0,0,65,0,0,0,0,Low,Secondary,Employed,Not crowded,255,0,Urban,False
+0,Female,Ethnicity1,0,0,0,46,0,0,0,0,Medium,None,Student,Crowded,240,1,Rural,False
+35,Male,Ethnicity1,0,0,0,80,0,0,0,0,Low,Tertiary,Employed,Crowded,339,0,Rural,False
+93,Male,Ethnicity3,0,0,0,10,0,0,0,0,High,Primary,Unemployed,Not crowded,447,0,Urban,False
+38,Male,Ethnicity3,0,0,0,16,0,0,1,0,Medium,Primary,Employed,Not crowded,272,0,Urban,False
+99,Male,Ethnicity3,0,0,0,37,0,1,0,0,Low,Primary,Employed,Crowded,169,0,Rural,False
+9,Male,Ethnicity1,0,0,0,47,0,0,0,0,Low,None,Student,Crowded,10,1,Urban,False
+7,Female,Ethnicity2,0,0,0,65,0,0,0,1,Medium,Secondary,Unemployed,Not crowded,76,0,Rural,False
+3,Male,Ethnicity3,0,0,1,15,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,463,1,Urban,False
+50,Female,Ethnicity3,0,0,0,16,0,0,1,0,Medium,Tertiary,Employed,Not crowded,214,0,Urban,False
+15,Female,Ethnicity3,0,0,0,39,0,0,0,1,High,None,Employed,Not crowded,12,1,Urban,False
+78,Female,Ethnicity1,0,0,0,70,0,0,0,1,High,Tertiary,Employed,Not crowded,92,1,Rural,False
+30,Male,Ethnicity3,0,0,0,79,0,1,0,0,Medium,Tertiary,Student,Not crowded,108,0,Rural,False
+36,Female,Ethnicity1,0,1,0,73,0,0,0,0,High,Primary,Student,Crowded,313,0,Urban,False
+76,Female,Ethnicity3,1,0,0,43,0,0,0,0,Medium,Tertiary,Unemployed,Crowded,105,0,Rural,False
+50,Male,Ethnicity1,0,0,0,32,0,0,0,0,Medium,Tertiary,Student,Crowded,65,1,Rural,False
+82,Male,Ethnicity2,0,0,0,69,0,0,0,0,Low,Primary,Unemployed,Not crowded,400,0,Urban,False
+6,Male,Ethnicity3,0,1,0,40,0,0,0,0,High,Tertiary,Employed,Crowded,41,0,Rural,False
+28,Female,Ethnicity2,0,0,0,34,0,0,0,0,Medium,None,Employed,Crowded,26,0,Urban,False
+33,Male,Ethnicity3,0,0,0,96,0,0,0,0,High,None,Unemployed,Not crowded,169,1,Rural,False
+0,Male,Ethnicity3,0,1,0,87,0,1,0,0,Low,Secondary,Unemployed,Crowded,198,0,Rural,False
+71,Female,Ethnicity2,0,0,0,26,0,0,0,0,High,Secondary,Employed,Not crowded,296,0,Urban,False
+7,Female,Ethnicity3,0,0,0,23,0,0,1,0,Low,Tertiary,Unemployed,Not crowded,249,0,Rural,False
+72,Male,Ethnicity1,0,0,0,13,0,0,0,0,Low,Primary,Employed,Not crowded,427,0,Urban,False
+36,Male,Ethnicity2,0,0,0,41,0,0,0,0,Low,Tertiary,Employed,Not crowded,431,0,Urban,False
+85,Female,Ethnicity3,0,0,0,28,1,0,0,0,Low,Secondary,Unemployed,Not crowded,159,0,Urban,False
+39,Male,Ethnicity2,0,0,0,55,0,0,0,0,High,Secondary,Employed,Crowded,180,0,Rural,False
+93,Male,Ethnicity1,0,0,0,74,0,0,0,1,Medium,None,Unemployed,Not crowded,334,0,Rural,False
+68,Female,Ethnicity2,0,0,0,3,0,0,0,0,Medium,Secondary,Unemployed,Crowded,387,0,Rural,False
+28,Female,Ethnicity2,0,0,0,61,0,0,0,1,High,None,Unemployed,Not crowded,107,0,Urban,False
+34,Male,Ethnicity2,0,0,0,4,0,0,0,0,High,Tertiary,Student,Not crowded,20,0,Urban,False
+39,Male,Ethnicity3,0,0,0,17,0,0,0,1,Medium,Primary,Employed,Crowded,253,0,Rural,False
+45,Female,Ethnicity2,0,0,0,5,0,0,0,1,High,Secondary,Student,Not crowded,215,0,Rural,False
+94,Female,Ethnicity3,0,0,0,63,0,0,0,0,Low,None,Student,Crowded,415,0,Rural,False
+95,Male,Ethnicity3,0,0,0,44,0,0,0,0,Medium,None,Unemployed,Not crowded,413,0,Urban,False
+27,Female,Ethnicity1,0,0,0,76,0,0,0,0,Medium,Secondary,Student,Crowded,430,0,Rural,False
+87,Female,Ethnicity1,0,0,0,32,0,0,0,1,Medium,Secondary,Student,Not crowded,47,1,Urban,False
+28,Female,Ethnicity1,0,0,0,72,0,0,0,1,High,Tertiary,Employed,Crowded,483,1,Rural,False
+12,Female,Ethnicity1,0,0,0,68,0,0,0,0,Medium,Secondary,Unemployed,Crowded,145,0,Rural,False
+65,Female,Ethnicity3,0,0,1,31,1,0,0,1,High,Primary,Unemployed,Crowded,276,0,Urban,False
+59,Male,Ethnicity2,0,0,0,74,0,0,0,0,Medium,None,Unemployed,Crowded,158,0,Rural,False
+89,Female,Ethnicity3,0,0,0,32,0,0,0,0,Low,Tertiary,Employed,Crowded,52,0,Rural,False
+1,Male,Ethnicity3,0,0,0,63,0,0,1,0,High,Tertiary,Employed,Crowded,84,0,Urban,False
+57,Male,Ethnicity3,0,0,0,31,0,0,0,0,High,Secondary,Unemployed,Not crowded,122,0,Rural,False
+94,Male,Ethnicity1,0,0,0,69,1,1,1,0,Low,Primary,Employed,Not crowded,351,1,Rural,True
+96,Male,Ethnicity3,0,1,0,73,0,0,0,0,Medium,Primary,Unemployed,Not crowded,111,0,Rural,False
+29,Female,Ethnicity2,0,0,1,56,1,0,0,0,Low,Primary,Student,Not crowded,4,0,Rural,False
+25,Female,Ethnicity3,0,0,0,56,0,0,0,0,Low,None,Student,Crowded,62,0,Urban,False
+28,Female,Ethnicity2,0,1,0,55,0,0,0,0,Low,Tertiary,Employed,Not crowded,461,0,Rural,False
+37,Male,Ethnicity2,0,0,0,46,1,0,0,0,Low,None,Employed,Not crowded,14,1,Rural,True
+91,Female,Ethnicity2,0,0,0,23,0,1,1,0,Medium,Secondary,Student,Crowded,96,0,Urban,False
+91,Male,Ethnicity1,0,0,0,43,1,0,1,0,Low,Tertiary,Employed,Not crowded,37,0,Urban,True
+84,Female,Ethnicity3,0,0,0,17,0,0,1,0,Low,Tertiary,Unemployed,Crowded,358,0,Urban,False
+80,Male,Ethnicity2,0,0,0,36,0,0,0,1,Low,Tertiary,Employed,Not crowded,242,0,Urban,False
+70,Male,Ethnicity3,0,1,0,63,0,0,0,1,High,Tertiary,Employed,Not crowded,282,0,Urban,False
+12,Female,Ethnicity1,0,0,0,40,1,0,1,0,Medium,Tertiary,Student,Crowded,250,0,Rural,True
+96,Female,Ethnicity1,0,0,0,93,0,0,0,1,Medium,None,Student,Crowded,196,0,Urban,False
+3,Female,Ethnicity1,0,0,0,56,0,0,0,0,High,Tertiary,Student,Not crowded,443,0,Urban,False
+91,Male,Ethnicity3,0,0,0,25,0,0,0,0,Low,Tertiary,Student,Not crowded,215,0,Rural,False
+25,Female,Ethnicity2,0,0,1,83,0,0,0,1,Low,None,Student,Crowded,407,0,Rural,False
+77,Female,Ethnicity3,0,0,0,72,0,1,0,0,Low,Tertiary,Student,Not crowded,65,0,Urban,False
+41,Male,Ethnicity2,0,0,0,83,0,0,1,0,Low,Secondary,Unemployed,Not crowded,65,0,Rural,False
+10,Male,Ethnicity1,1,1,0,44,0,0,0,0,Low,Secondary,Employed,Not crowded,51,1,Rural,True
+74,Male,Ethnicity2,0,1,0,59,0,0,0,1,Low,None,Student,Crowded,324,0,Rural,False
+0,Male,Ethnicity1,0,0,0,25,0,0,0,1,Medium,Secondary,Unemployed,Crowded,370,0,Urban,False
+88,Female,Ethnicity1,0,0,0,71,0,1,0,1,Low,Secondary,Student,Crowded,351,0,Rural,False
+54,Female,Ethnicity3,0,0,0,39,0,0,0,1,High,Secondary,Employed,Crowded,357,0,Rural,False
+56,Male,Ethnicity3,0,0,0,77,0,0,0,0,Medium,Tertiary,Employed,Crowded,387,0,Urban,False
+42,Female,Ethnicity3,0,0,0,69,0,0,0,0,Medium,Tertiary,Student,Not crowded,244,0,Urban,False
+51,Male,Ethnicity3,0,0,0,18,0,0,0,0,Low,None,Employed,Not crowded,295,0,Urban,False
+78,Male,Ethnicity1,0,0,0,21,0,0,0,0,Medium,Secondary,Employed,Not crowded,160,0,Rural,False
+45,Male,Ethnicity1,0,0,0,23,0,0,0,0,High,Primary,Student,Not crowded,32,0,Urban,False
+65,Female,Ethnicity2,0,0,0,95,0,0,0,0,Medium,Tertiary,Student,Not crowded,377,1,Rural,False
+52,Female,Ethnicity2,0,0,0,64,0,1,1,1,Medium,Secondary,Student,Crowded,343,0,Urban,True
+79,Female,Ethnicity3,0,1,0,62,1,0,0,0,High,Secondary,Student,Crowded,212,0,Urban,False
+48,Male,Ethnicity1,0,0,0,31,0,0,0,0,Medium,Secondary,Unemployed,Not crowded,172,0,Urban,False
+50,Female,Ethnicity2,0,0,0,34,0,0,0,0,Low,Secondary,Student,Not crowded,444,0,Urban,False
+53,Male,Ethnicity1,0,0,0,93,0,0,1,0,High,Primary,Employed,Not crowded,291,1,Urban,True
+68,Female,Ethnicity3,0,0,0,36,0,0,0,0,High,Primary,Unemployed,Crowded,319,0,Urban,False
+22,Male,Ethnicity3,0,0,0,25,1,0,1,0,Low,None,Employed,Not crowded,216,0,Rural,False
+6,Female,Ethnicity1,0,0,0,50,0,0,0,1,High,Primary,Student,Crowded,233,0,Urban,False
+40,Female,Ethnicity1,0,0,0,27,1,0,0,0,High,Tertiary,Student,Crowded,207,1,Urban,False
+93,Female,Ethnicity3,0,0,0,78,0,0,0,0,High,None,Student,Not crowded,191,0,Urban,False
+24,Male,Ethnicity3,1,0,0,34,0,0,0,0,High,Primary,Employed,Not crowded,285,0,Urban,False
+13,Female,Ethnicity1,0,0,0,39,0,0,0,0,High,Secondary,Employed,Not crowded,44,0,Rural,False
+81,Female,Ethnicity3,0,0,0,33,0,0,1,0,Medium,Primary,Student,Not crowded,285,0,Urban,False
+95,Male,Ethnicity1,0,0,0,78,0,0,0,1,High,None,Employed,Not crowded,435,0,Urban,False
+21,Female,Ethnicity1,0,1,0,81,0,0,1,0,High,Secondary,Student,Not crowded,423,1,Urban,True
+35,Male,Ethnicity2,0,0,0,2,1,0,0,0,Low,Secondary,Employed,Crowded,92,1,Urban,False
+15,Male,Ethnicity3,0,0,0,53,0,0,0,0,Medium,Secondary,Student,Not crowded,274,0,Urban,False
